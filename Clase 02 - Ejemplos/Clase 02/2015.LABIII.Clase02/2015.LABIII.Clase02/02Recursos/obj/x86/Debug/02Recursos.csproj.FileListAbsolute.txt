@@ -1,0 +1,24 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\bin\Debug\02Recursos.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\bin\Debug\02Recursos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\_02Recursos.frmRecursos.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\_02Recursos.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\02Recursos.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\02Recursos.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\02Recursos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\02Recursos.csproj.ResolveComReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\bin\Debug\02Recursos.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\bin\Debug\02Recursos.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\bin\Debug\Interop.WMPLib.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\02Recursos.csproj.ResolveComReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\_02Recursos.frmRecursos.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\_02Recursos.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\02Recursos.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\02Recursos.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\02Recursos\obj\x86\Debug\02Recursos.pdb

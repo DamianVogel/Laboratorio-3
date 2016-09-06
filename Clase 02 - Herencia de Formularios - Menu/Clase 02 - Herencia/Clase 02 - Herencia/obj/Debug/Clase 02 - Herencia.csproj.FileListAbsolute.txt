@@ -1,0 +1,9 @@
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\bin\Debug\Clase 02 - Herencia.exe.config
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\bin\Debug\Clase 02 - Herencia.exe
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\bin\Debug\Clase 02 - Herencia.pdb
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase_02___Herencia.FrmPersona.resources
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase_02___Herencia.Properties.Resources.resources
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase 02 - Herencia.csproj.GenerateResource.Cache
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase 02 - Herencia.exe
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase 02 - Herencia.pdb
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase_02___Herencia.FrmEmpleado.resources

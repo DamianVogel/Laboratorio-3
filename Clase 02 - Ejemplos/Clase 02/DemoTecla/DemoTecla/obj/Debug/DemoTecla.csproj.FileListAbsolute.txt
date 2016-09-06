@@ -1,0 +1,21 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\bin\Debug\DemoTecla.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\bin\Debug\DemoTecla.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\bin\Debug\DemoTecla.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\obj\Debug\DemoTecla.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\obj\Debug\DemoTecla.TeclasDemoForm.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\obj\Debug\DemoTecla.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\obj\Debug\DemoTecla.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\obj\Debug\DemoTecla.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoTecla\DemoTecla\obj\Debug\DemoTecla.pdb
+H:\Laboraiorio III\2015-1c\Clase 02\DemoTecla\DemoTecla\bin\Debug\DemoTecla.exe.config
+H:\Laboraiorio III\2015-1c\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.exe
+H:\Laboraiorio III\2015-1c\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\bin\Debug\DemoTecla.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\bin\Debug\DemoTecla.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\bin\Debug\DemoTecla.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.TeclasDemoForm.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.exe

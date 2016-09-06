@@ -1,0 +1,9 @@
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\bin\Debug\Vogel.Damian.3D.exe.config
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\bin\Debug\Vogel.Damian.3D.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\bin\Debug\Vogel.Damian.3D.pdb
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\obj\Debug\Aplicacion.01.csprojResolveAssemblyReference.cache
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\obj\Debug\Vogel.Damian._3D.Form1.resources
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\obj\Debug\Vogel.Damian._3D.Properties.Resources.resources
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\obj\Debug\Aplicacion.01.csproj.GenerateResource.Cache
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\obj\Debug\Vogel.Damian.3D.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\obj\Debug\Vogel.Damian.3D.pdb

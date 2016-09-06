@@ -1,0 +1,21 @@
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\bin\Debug\Aplicacion.02.exe.config
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\bin\Debug\Aplicacion.02.exe
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\bin\Debug\Aplicacion.02.pdb
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\obj\Debug\Aplicacion.02.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\obj\Debug\Aplicacion._02.Form1.resources
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\obj\Debug\Aplicacion._02.Properties.Resources.resources
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\obj\Debug\Aplicacion.02.csproj.GenerateResource.Cache
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\obj\Debug\Aplicacion.02.exe
+D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Aplicacion.02\obj\Debug\Aplicacion.02.pdb
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\bin\Debug\Aplicacion.02.exe.config
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion.02.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion.02.pdb
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\bin\Debug\Aplicacion.02.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\bin\Debug\Aplicacion.02.pdb
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion.02.csprojResolveAssemblyReference.cache
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion._02.Form1.resources
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion._02.Properties.Resources.resources
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion.02.csproj.GenerateResource.Cache
+C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\bin\Debug\Aplicacion.02.exe.config
+C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion.02.exe
+C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion.02.pdb

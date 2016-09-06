@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 01 - Windows Form Aplication", "Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication.csproj", "{CFE9AC4F-27A9-45AF-9BD7-4808D9AC343A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE9AC4F-27A9-45AF-9BD7-4808D9AC343A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE9AC4F-27A9-45AF-9BD7-4808D9AC343A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE9AC4F-27A9-45AF-9BD7-4808D9AC343A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE9AC4F-27A9-45AF-9BD7-4808D9AC343A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

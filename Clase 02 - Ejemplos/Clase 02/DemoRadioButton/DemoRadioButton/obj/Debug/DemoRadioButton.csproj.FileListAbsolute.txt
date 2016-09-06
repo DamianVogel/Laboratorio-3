@@ -1,0 +1,18 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.frmPrincipal.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.frmPrincipal.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.exe

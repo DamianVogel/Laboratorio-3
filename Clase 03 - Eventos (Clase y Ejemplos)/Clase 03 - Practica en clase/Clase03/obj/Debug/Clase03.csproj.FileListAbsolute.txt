@@ -1,0 +1,9 @@
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\bin\Debug\Clase03.exe.config
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\bin\Debug\Clase03.exe
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\bin\Debug\Clase03.pdb
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\obj\Debug\Clase03.Form1.resources
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\obj\Debug\Clase03.Properties.Resources.resources
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\obj\Debug\Clase03.csproj.GenerateResource.Cache
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\obj\Debug\Clase03.exe
+D:\Vogel.Damian\Laboratorio 3\Clase 03\Clase03\Clase03\obj\Debug\Clase03.pdb

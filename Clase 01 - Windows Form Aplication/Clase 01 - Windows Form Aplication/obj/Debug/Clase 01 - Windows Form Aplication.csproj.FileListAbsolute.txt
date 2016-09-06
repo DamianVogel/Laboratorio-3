@@ -1,0 +1,13 @@
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\bin\Debug\Clase 01 - Windows Form Aplication.exe.config
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\bin\Debug\Clase 01 - Windows Form Aplication.exe
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\bin\Debug\Clase 01 - Windows Form Aplication.pdb
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase 01 - Windows Form Aplication.csprojResolveAssemblyReference.cache
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase_01___Windows_Form_Aplication.Properties.Resources.resources
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase 01 - Windows Form Aplication.csproj.GenerateResource.Cache
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase 01 - Windows Form Aplication.exe
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase 01 - Windows Form Aplication.pdb
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase_01___Windows_Form_Aplication.Form2.resources
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase_01___Windows_Form_Aplication.Form1.resources
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\bin\Debug\Clase 01 - Windows Form Aplication.exe.config
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase 01 - Windows Form Aplication.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 01 - Windows Form Aplication\Clase 01 - Windows Form Aplication\obj\Debug\Clase 01 - Windows Form Aplication.pdb

@@ -1,0 +1,18 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\bin\Debug\Aplicacion2.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\bin\Debug\Aplicacion2.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\bin\Debug\Aplicacion2.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.frmDescuento.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\bin\Debug\Aplicacion2.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\bin\Debug\Aplicacion2.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\bin\Debug\Aplicacion2.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.frmDescuento.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicacion2\obj\Debug\Aplicacion2.pdb

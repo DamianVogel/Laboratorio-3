@@ -1,0 +1,36 @@
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.exe.config
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.Cache
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.exe
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.pdb
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.exe
+D:\Vogel.Damian\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.pdb
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.exe.config
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.pdb
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.pdb
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.csprojResolveAssemblyReference.cache
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.Cache
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.exe.config
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.exe
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.pdb
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.exe
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.pdb
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.csprojResolveAssemblyReference.cache
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+d:\Users\Sofia Bontempo\Desktop\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.Cache
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.pdb
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.csprojResolveAssemblyReference.cache
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.Properties.Resources.resources
+C:\Personal\Damian\Personal\Laboratorio 3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Ejercicio Cajero\Cajero\Cajero\obj\Debug\Cajero.csproj.GenerateResource.Cache

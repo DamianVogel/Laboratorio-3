@@ -1,0 +1,18 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\bin\Debug\Aplicación5.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\bin\Debug\Aplicación5.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\bin\Debug\Aplicación5.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.frmInformacionNumero.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\bin\Debug\Aplicación5.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\bin\Debug\Aplicación5.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\bin\Debug\Aplicación5.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.frmInformacionNumero.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicación5\obj\Debug\Aplicación5.csproj.GenerateResource.Cache

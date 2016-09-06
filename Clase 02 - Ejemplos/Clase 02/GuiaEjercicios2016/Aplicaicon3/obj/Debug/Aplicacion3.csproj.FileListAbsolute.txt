@@ -1,0 +1,18 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\bin\Debug\Aplicaicon3.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\bin\Debug\Aplicaicon3.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\bin\Debug\Aplicaicon3.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicacion3.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicaicon3.frmManejoCadenas.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicaicon3.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicacion3.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicaicon3.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicaicon3.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\bin\Debug\Aplicaicon3.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\bin\Debug\Aplicaicon3.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\bin\Debug\Aplicaicon3.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicacion3.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicaicon3.frmManejoCadenas.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicaicon3.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicacion3.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicaicon3.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\GuiaEjercicios2016\Aplicaicon3\obj\Debug\Aplicaicon3.pdb

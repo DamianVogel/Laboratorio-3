@@ -1,0 +1,10 @@
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\bin\Debug\Clase 02.exe.config
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\bin\Debug\Clase 02.exe
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\bin\Debug\Clase 02.pdb
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase 02.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase_02.Form1.resources
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase_02.Properties.Resources.resources
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase 02.csproj.GenerateResource.Cache
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase 02.exe
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase 02.pdb
+D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase_02.formPrincipal.resources

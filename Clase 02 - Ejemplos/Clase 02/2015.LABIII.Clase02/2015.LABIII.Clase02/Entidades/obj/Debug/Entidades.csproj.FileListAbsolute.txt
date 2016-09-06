@@ -1,0 +1,14 @@
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\Entidades\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\Entidades\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\Entidades\obj\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\bin\Debug\Entidades.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.pdb

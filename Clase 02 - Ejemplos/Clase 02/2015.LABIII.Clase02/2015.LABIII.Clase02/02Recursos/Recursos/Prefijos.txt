@@ -1,0 +1,23 @@
+---------------------------------------------------------
+Prefijo		Control			Ejemplo
+---------------------------------------------------------
+txt		TextBox			txtEdad
+lbl		Label			lblNombre
+btn		Button			btnAceptar	
+cbo		ComboBox		cboPaises
+frm		Form			frmPrincipal
+lst		ListView/ListBox	lstListado
+msk		MaskedTextBox		mskFecha
+grp		GroupBox		grpIntereses
+pic		PictureBox		picFoto
+chk		CheckBox		chkOpcion
+rdo		RadioButton		rdoSexo
+img		Image			imgFondo
+clb		CheckedListBox		clbLista
+dgv		DataGridView		dgvMenu
+dtp		DateTimePicker		dtpFechaSalida
+
+
+---------------------------------------------------------------
+
+

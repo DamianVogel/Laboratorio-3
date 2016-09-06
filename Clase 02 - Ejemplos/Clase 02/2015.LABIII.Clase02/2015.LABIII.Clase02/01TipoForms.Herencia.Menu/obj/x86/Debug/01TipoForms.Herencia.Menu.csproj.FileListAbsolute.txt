@@ -1,0 +1,48 @@
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmAnclar.resources
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmInicio.resources
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\bin\Debug\01TipoForms.Herencia.Menu.exe
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\bin\Debug\01TipoForms.Herencia.Menu.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.exe
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmMenu.resources
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmOutLine_esquema.resources
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmPersona.resources
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmEmpleado.resources
+c:\users\administrador\documents\visual studio 2010\Projects\01TipoForms.Herencia.Menu\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmMostrarConMenus.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\01TipoForms.Herencia.Menu.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\01TipoForms.Herencia.Menu.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmAnclar.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmEmpleado.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmInicio.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmMenu.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmMostrarConMenus.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmOutLine_esquema.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmPersona.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\01TipoForms.Herencia.Menu.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\01TipoForms.Herencia.Menu.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\Entidades.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\Entidades.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmAnclar.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmEmpleado.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmInicio.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmMenu.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmMostrarConMenus.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmOutLine_esquema.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmPersona.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csproj.GenerateResource.Cache
