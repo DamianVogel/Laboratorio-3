@@ -1,0 +1,14 @@
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\bin\Debug\Delegados.exe.config
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\bin\Debug\Delegados.exe
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\bin\Debug\Delegados.pdb
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\obj\Debug\Delegados.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\obj\Debug\Delegados.FrmPrincipal.resources
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\obj\Debug\Delegados.FrmDestino.resources
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\obj\Debug\Delegados.FrmOrigen.resources
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\obj\Debug\Delegados.Properties.Resources.resources
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\obj\Debug\Delegados.csproj.GenerateResource.Cache
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\obj\Debug\Delegados.exe
+D:\Vogel.Damian\temp\Delegado\Delegados\Delegados\obj\Debug\Delegados.pdb
+D:\Vogel.Damian\temp\Clase 04 - Delegados\Delegados\Delegados\bin\Debug\Delegados.exe.config
+D:\Vogel.Damian\temp\Clase 04 - Delegados\Delegados\Delegados\obj\Debug\Delegados.exe
+D:\Vogel.Damian\temp\Clase 04 - Delegados\Delegados\Delegados\obj\Debug\Delegados.pdb

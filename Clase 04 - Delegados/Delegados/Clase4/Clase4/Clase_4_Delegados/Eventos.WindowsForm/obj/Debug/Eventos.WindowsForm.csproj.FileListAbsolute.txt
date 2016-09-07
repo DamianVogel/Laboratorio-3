@@ -1,0 +1,14 @@
+E:\Clase_4_Delegados\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe.config
+E:\Clase_4_Delegados\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe
+E:\Clase_4_Delegados\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.pdb
+E:\Clase_4_Delegados\Eventos.WindowsForm\bin\Debug\Entidades.dll
+E:\Clase_4_Delegados\Eventos.WindowsForm\bin\Debug\Entidades.pdb
+E:\Clase_4_Delegados\Eventos.WindowsForm\obj\Debug\Eventos.WindowsForm.csprojResolveAssemblyReference.cache
+E:\Clase_4_Delegados\Eventos.WindowsForm\obj\Debug\Eventos.WindowsForm.frmEmpleados.resources
+E:\Clase_4_Delegados\Eventos.WindowsForm\obj\Debug\Eventos.WindowsForm.Properties.Resources.resources
+E:\Clase_4_Delegados\Eventos.WindowsForm\obj\Debug\Eventos.WindowsForm.csproj.GenerateResource.Cache
+E:\Clase_4_Delegados\Eventos.WindowsForm\obj\Debug\Eventos.WindowsForm.exe
+E:\Clase_4_Delegados\Eventos.WindowsForm\obj\Debug\Eventos.WindowsForm.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase_4_Delegados\Eventos.WindowsForm\bin\Debug\Eventos.WindowsForm.exe.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase_4_Delegados\Eventos.WindowsForm\obj\Debug\Eventos.WindowsForm.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase_4_Delegados\Eventos.WindowsForm\obj\Debug\Eventos.WindowsForm.pdb

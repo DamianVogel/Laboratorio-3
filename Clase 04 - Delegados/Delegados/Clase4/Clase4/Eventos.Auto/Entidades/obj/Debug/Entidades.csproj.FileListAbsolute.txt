@@ -1,0 +1,15 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\bin\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\bin\Debug\Entidades.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\obj\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Eventos.Auto\Entidades\obj\Debug\Entidades.pdb
+E:\Eventos.Auto\Entidades\bin\Debug\Entidades.dll
+E:\Eventos.Auto\Entidades\bin\Debug\Entidades.pdb
+E:\Eventos.Auto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Eventos.Auto\Entidades\obj\Debug\Entidades.dll
+E:\Eventos.Auto\Entidades\obj\Debug\Entidades.pdb
+F:\Eventos.Auto\Entidades\bin\Debug\Entidades.dll
+F:\Eventos.Auto\Entidades\bin\Debug\Entidades.pdb
+F:\Eventos.Auto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Eventos.Auto\Entidades\obj\Debug\Entidades.dll
+F:\Eventos.Auto\Entidades\obj\Debug\Entidades.pdb

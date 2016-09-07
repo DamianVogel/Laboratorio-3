@@ -1,0 +1,16 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Clase_4_Delegados\Eventos.Consola\obj\Debug\Eventos.Consola.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Clase_4_Delegados\Eventos.Consola\bin\Debug\Eventos.Consola.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Clase_4_Delegados\Eventos.Consola\bin\Debug\Eventos.Consola.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Clase_4_Delegados\Eventos.Consola\bin\Debug\Eventos.Consola.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Clase_4_Delegados\Eventos.Consola\bin\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Clase_4_Delegados\Eventos.Consola\bin\Debug\Entidades.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Clase_4_Delegados\Eventos.Consola\obj\Debug\Eventos.Consola.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Clase_4_Delegados\Eventos.Consola\obj\Debug\Eventos.Consola.pdb
+E:\Clase_4_Delegados\Eventos.Consola\bin\Debug\Eventos.Consola.exe.config
+E:\Clase_4_Delegados\Eventos.Consola\obj\Debug\Eventos.Consola.exe
+E:\Clase_4_Delegados\Eventos.Consola\obj\Debug\Eventos.Consola.pdb
+E:\Clase_4_Delegados\Eventos.Consola\bin\Debug\Eventos.Consola.exe
+E:\Clase_4_Delegados\Eventos.Consola\bin\Debug\Eventos.Consola.pdb
+E:\Clase_4_Delegados\Eventos.Consola\bin\Debug\Entidades.dll
+E:\Clase_4_Delegados\Eventos.Consola\bin\Debug\Entidades.pdb
+E:\Clase_4_Delegados\Eventos.Consola\obj\Debug\Eventos.Consola.csprojResolveAssemblyReference.cache
