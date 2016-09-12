@@ -1,0 +1,11 @@
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\bin\Debug\Delegados Ejercicios Aplicacion01.exe.config
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\bin\Debug\Delegados Ejercicios Aplicacion01.exe
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\bin\Debug\Delegados Ejercicios Aplicacion01.pdb
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\obj\Debug\Delegados Ejercicios Aplicacion01.csprojResolveAssemblyReference.cache
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\obj\Debug\Delegados_Ejercicios_Aplicacion01.FrmPrincipal.resources
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\obj\Debug\Delegados_Ejercicios_Aplicacion01.Properties.Resources.resources
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\obj\Debug\Delegados Ejercicios Aplicacion01.csproj.GenerateResource.Cache
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\obj\Debug\Delegados Ejercicios Aplicacion01.exe
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\obj\Debug\Delegados Ejercicios Aplicacion01.pdb
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\obj\Debug\Delegados_Ejercicios_Aplicacion01.frmDatos.resources
+d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados Ejercicios Aplicacion01\Delegados Ejercicios Aplicacion01\obj\Debug\Delegados_Ejercicios_Aplicacion01.frmTestDelegados.resources
