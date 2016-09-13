@@ -1,0 +1,11 @@
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\bin\Debug\Clase 05 - Ejercicio Entidades.exe.config
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\obj\Debug\Clase 05 - Ejercicio Entidades.csprojResolveAssemblyReference.cache
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\obj\Debug\Clase_05___Ejercicio_Entidades.Properties.Resources.resources
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\obj\Debug\Clase 05 - Ejercicio Entidades.csproj.GenerateResource.Cache
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\bin\Debug\Clase 05 - Ejercicio Entidades.exe
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\bin\Debug\Clase 05 - Ejercicio Entidades.pdb
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\bin\Debug\Entidad.dll
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\bin\Debug\Entidad.pdb
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\obj\Debug\Clase_05___Ejercicio_Entidades.Form1.resources
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\obj\Debug\Clase 05 - Ejercicio Entidades.exe
+D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Clase 05 - Ejercicio Entidades\obj\Debug\Clase 05 - Ejercicio Entidades.pdb
