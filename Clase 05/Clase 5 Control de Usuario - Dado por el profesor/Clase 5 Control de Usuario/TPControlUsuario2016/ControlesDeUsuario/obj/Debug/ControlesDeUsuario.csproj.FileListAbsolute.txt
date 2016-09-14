@@ -1,0 +1,24 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\ControlesDeUsuario\bin\Debug\ControlesDeUsuario.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\ControlesDeUsuario\bin\Debug\ControlesDeUsuario.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.ControlLogin.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.UsrAlarma.resources
+C:\Users\Christian\Desktop\TPControlUsuario2016\ControlesDeUsuario\bin\Debug\ControlesDeUsuario.dll
+C:\Users\Christian\Desktop\TPControlUsuario2016\ControlesDeUsuario\bin\Debug\ControlesDeUsuario.pdb
+C:\Users\Christian\Desktop\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.ControlLogin.resources
+C:\Users\Christian\Desktop\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.UsrAlarma.resources
+C:\Users\Christian\Desktop\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.dll
+C:\Users\Christian\Desktop\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.pdb
+C:\Users\Christian\Desktop\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.UsrControlFechaEnLetras.resources
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\bin\Debug\ControlesDeUsuario.dll
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\bin\Debug\ControlesDeUsuario.pdb
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.csprojResolveAssemblyReference.cache
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.ControlLogin.resources
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.UsrAlarma.resources
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.UsrControlFechaEnLetras.resources
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.csproj.GenerateResource.Cache
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.dll
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\ControlesDeUsuario\obj\Debug\ControlesDeUsuario.pdb

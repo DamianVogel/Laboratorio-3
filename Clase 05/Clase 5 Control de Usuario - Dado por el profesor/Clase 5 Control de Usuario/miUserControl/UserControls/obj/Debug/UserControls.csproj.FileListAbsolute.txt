@@ -1,0 +1,21 @@
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\bin\Debug\UserControls.dll.config
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\bin\Debug\UserControls.dll
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\bin\Debug\UserControls.pdb
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\bin\Debug\Entidades.dll
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\bin\Debug\Entidades.pdb
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\obj\Debug\UserControls.csprojResolveAssemblyReference.cache
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\obj\Debug\UserControls.miSuperGrilla.resources
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\obj\Debug\UserControls.csproj.GenerateResource.Cache
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\obj\Debug\UserControls.dll
+C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\UserControls\obj\Debug\UserControls.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\bin\Debug\UserControls.dll.config
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\bin\Debug\UserControls.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\bin\Debug\UserControls.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\bin\Debug\Entidades.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\bin\Debug\Entidades.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\obj\Debug\UserControls.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\obj\Debug\UserControls.miSuperGrilla.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\obj\Debug\UserControls.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\obj\Debug\UserControls.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\obj\Debug\UserControls.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\UserControls\obj\Debug\UserControls.otrocontrol.resources

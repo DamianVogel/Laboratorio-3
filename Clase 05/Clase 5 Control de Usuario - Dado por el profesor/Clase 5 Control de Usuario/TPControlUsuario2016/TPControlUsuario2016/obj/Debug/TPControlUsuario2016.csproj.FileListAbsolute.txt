@@ -1,0 +1,35 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\ControlesDeUsuario.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\ControlesDeUsuario.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.frmPrincipal.resources
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.exe.config
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.exe
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.pdb
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.exe
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.pdb
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\ControlesDeUsuario.dll
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\ControlesDeUsuario.pdb
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.frmPrincipal.resources
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.Properties.Resources.resources
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.frmFechaEnLetras.resources
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.exe.config
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.exe
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.pdb
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.exe
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\TPControlUsuario2016.pdb
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\ControlesDeUsuario.dll
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\bin\Debug\ControlesDeUsuario.pdb
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.csprojResolveAssemblyReference.cache
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.frmFechaEnLetras.resources
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.frmPrincipal.resources
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.Properties.Resources.resources
+C:\Users\mariano.j.mutti\Desktop\UTN\Ayudantia Labo III\Clase 5 Control de Usuario\TPControlUsuario2016\TPControlUsuario2016\obj\Debug\TPControlUsuario2016.csproj.GenerateResource.Cache

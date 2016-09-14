@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPControlUsuario2016", "TPControlUsuario2016\TPControlUsuario2016.csproj", "{34D1EC4C-2EFC-40E4-A782-48A2C4E09434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlesDeUsuario", "ControlesDeUsuario\ControlesDeUsuario.csproj", "{96B018D3-9990-444E-99EA-D6B4609FDA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D1EC4C-2EFC-40E4-A782-48A2C4E09434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D1EC4C-2EFC-40E4-A782-48A2C4E09434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D1EC4C-2EFC-40E4-A782-48A2C4E09434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D1EC4C-2EFC-40E4-A782-48A2C4E09434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B018D3-9990-444E-99EA-D6B4609FDA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B018D3-9990-444E-99EA-D6B4609FDA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B018D3-9990-444E-99EA-D6B4609FDA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B018D3-9990-444E-99EA-D6B4609FDA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

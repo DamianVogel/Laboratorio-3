@@ -13,6 +13,8 @@ namespace Clase_05___Ejercicio_Entidades
 {
     public partial class Form1 : Form
     {
+        Class1[] lista = new Class1[10];
+
         public Form1()
         {
             InitializeComponent();
@@ -27,7 +29,7 @@ namespace Clase_05___Ejercicio_Entidades
             Class1 numero9 = new Class1(9, "xuabro", 90);
             Class1 numero10 = new Class1(10, "Chamho", 100);
 
-            Class1[] lista = new Class1[10];
+            
             lista.SetValue(numero1, 0);
             lista.SetValue(numero2, 1);
             lista.SetValue(numero3, 2);
@@ -52,7 +54,7 @@ namespace Clase_05___Ejercicio_Entidades
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
