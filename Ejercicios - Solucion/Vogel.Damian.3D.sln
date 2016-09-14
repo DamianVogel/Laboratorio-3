@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.01", "Vogel.Damian.3D\Aplicacion.01.csproj", "{D3130DBB-C80E-4778-B7B0-86B8D94B787A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.02", "Aplicacion.02\Aplicacion.02.csproj", "{8DA8162B-AA9E-4F52-A725-CDF12F881BC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.02", "Aplicacion.02 - Clase01\Aplicacion.02.csproj", "{8DA8162B-AA9E-4F52-A725-CDF12F881BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.03", "Aplicacion.03\Aplicacion.03.csproj", "{BD3EAC36-95E2-4C5F-A49F-567A5098DB7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.03", "Aplicacion.03 - Clase01\Aplicacion.03.csproj", "{BD3EAC36-95E2-4C5F-A49F-567A5098DB7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

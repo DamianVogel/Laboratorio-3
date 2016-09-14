@@ -1,0 +1,15 @@
+C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.03\bin\Debug\Aplicacion.03.exe.config
+C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.03\obj\Debug\Aplicacion.03.csprojResolveAssemblyReference.cache
+C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.03\obj\Debug\Aplicacion._03.Form1.resources
+C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.03\obj\Debug\Aplicacion._03.Properties.Resources.resources
+C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.03\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
+D:\Vogel.Damian\Laboratorio 3\Ejercicios - Solucion\Aplicacion.03\bin\Debug\Aplicacion.03.exe.config
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\bin\Debug\Aplicacion.03.exe.config
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\bin\Debug\Aplicacion.03.exe
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\bin\Debug\Aplicacion.03.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.csprojResolveAssemblyReference.cache
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion._03.Form1.resources
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion._03.Properties.Resources.resources
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.exe
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.pdb

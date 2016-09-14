@@ -20,13 +20,16 @@ namespace Aplicacion._03
         private void btnOperar_Click(object sender, EventArgs e)
         {
             string cadena = this.txtCadena.Text;
-            char [] 
+            string cadenaRev = "";
+            
+            
             for (int i = 0; i < cadena.Length; i++)
             {
-                 = cadena[0];
-            
+                
+                cadenaRev = String.Concat(cadenaRev, cadena.Substring(((cadena.Length-1)-i),1));
             }
-            
+
+            MessageBox.Show(cadenaRev);
            
         }
 

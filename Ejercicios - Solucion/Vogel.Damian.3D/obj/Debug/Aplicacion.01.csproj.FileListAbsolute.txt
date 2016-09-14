@@ -31,3 +31,6 @@ D:\Vogel.Damian.3D\Laboratorio 3\Vogel.Damian.3D\Vogel.Damian.3D\obj\Debug\Aplic
 D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Vogel.Damian.3D\bin\Debug\Vogel.Damian.3D.exe.config
 D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Vogel.Damian.3D.exe
 D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Vogel.Damian.3D.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\bin\Debug\Vogel.Damian.3D.exe.config
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Vogel.Damian.3D.exe
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Vogel.Damian.3D.pdb
