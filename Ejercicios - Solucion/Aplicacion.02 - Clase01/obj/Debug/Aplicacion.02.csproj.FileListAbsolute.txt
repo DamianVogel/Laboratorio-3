@@ -19,3 +19,12 @@ D:\UTN\Tercer Cuatrimestre\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj
 C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\bin\Debug\Aplicacion.02.exe.config
 C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion.02.exe
 C:\Personal\Damian\Personal\Laboratorio 3\Ejercicios - Solucion\Aplicacion.02\obj\Debug\Aplicacion.02.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\bin\Debug\Aplicacion.02.exe.config
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\bin\Debug\Aplicacion.02.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\bin\Debug\Aplicacion.02.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\obj\Debug\Aplicacion.02.csprojResolveAssemblyReference.cache
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\obj\Debug\Aplicacion._02.Form1.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\obj\Debug\Aplicacion._02.Properties.Resources.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\obj\Debug\Aplicacion.02.csproj.GenerateResource.Cache
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\obj\Debug\Aplicacion.02.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.02 - Clase01\obj\Debug\Aplicacion.02.pdb

@@ -30,8 +30,7 @@ namespace Aplicacion._03
             }
 
             this.txtInvertida.Text = cadenaRev;
-
-            
+            this.txtAlfabetico.Text = Form1.OrdenarCadena(cadena);
 
             
 
@@ -47,23 +46,20 @@ namespace Aplicacion._03
 
         public static string OrdenarCadena (string a)
         {
-                  
+            string c = "";     
             for (int i = 0; i < a.Length-1; i++)
             {
                 for (int j = i+1; j < a.Length; j++)
                 {
-                    if (char.Parse(a.Substring(i, 1)) > char.Parse(a.Substring(j, 1)))
+                    if (string.Compare(a[i].ToString(),a[j].ToString())==1)
                     {
-                            string c = a.Substring(i, 1);
-                            a.Insert(i, a.Substring(j, 1).ToString());
-                            a.Insert(j,c);
-                    }
-
-                    
-                              
+                            c = a.Substring(i, 1);
+                            a = a.Insert(i,a.Substring(j,1));                                               
+                            a = a.Remove(j+1, 1);                            
+                    }                                                
                 }           
             }
-            //PROBAR ESTE METODO!
+            
             return a;     
         }
        

@@ -13,3 +13,12 @@ C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - 
 C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
 C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.exe
 C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\bin\Debug\Aplicacion.03.exe.config
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\bin\Debug\Aplicacion.03.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\bin\Debug\Aplicacion.03.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.csprojResolveAssemblyReference.cache
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion._03.Form1.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion._03.Properties.Resources.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Aplicacion.03 - Clase01\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
