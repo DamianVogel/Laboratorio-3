@@ -42,6 +42,10 @@ namespace Aplicacion._03
             this.txtInvertida.ReadOnly = true;
             this.txtAlfabetico.ReadOnly = true;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.btnLimpiar.Click += this.Limpiar;
+            this.btnSalir.Click += this.Salir;
+           
+
         }
 
         public static string OrdenarCadena (string a)
@@ -69,14 +73,37 @@ namespace Aplicacion._03
 
             if (respuesta == DialogResult.Yes)
             {
-                e.Cancel = true;
+                e.Cancel = false;
             }
-
-            e.Cancel = false;
+            else
+                e.Cancel = true;
 
         }
+
+        public void Limpiar(object sender, EventArgs e)
+        {
+            Button button = (Button)sender;
+
+            if (button == btnLimpiar)
+            {
+                foreach (Control item in this.Controls)
+                {
+                    if (item is TextBox)
+                    {
+                        item.Text = "";
+                    }
+
+
+                }
+            }
+        }
+
+        public void Salir(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+       
     
-    
-    
+        
     }
 }
