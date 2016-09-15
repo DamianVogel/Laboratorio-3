@@ -96,6 +96,7 @@
             this.btnSalir.TabIndex = 6;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+           
             // 
             // btnLimpiar
             // 
