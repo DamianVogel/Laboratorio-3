@@ -41,7 +41,7 @@ namespace Aplicacion._03
         {
             this.txtInvertida.ReadOnly = true;
             this.txtAlfabetico.ReadOnly = true;
-        
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
         }
 
         public static string OrdenarCadena (string a)
@@ -62,6 +62,21 @@ namespace Aplicacion._03
             
             return a;     
         }
-       
+
+        public void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult respuesta = MessageBox.Show("¿Realmente quiere salir de esta esplendida aplicacion?", "Atencion", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+
+            if (respuesta == DialogResult.Yes)
+            {
+                e.Cancel = true;
+            }
+
+            e.Cancel = false;
+
+        }
+    
+    
+    
     }
 }

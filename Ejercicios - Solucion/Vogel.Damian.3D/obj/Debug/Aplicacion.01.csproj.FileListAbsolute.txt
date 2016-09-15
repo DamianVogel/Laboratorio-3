@@ -43,3 +43,9 @@ C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\
 C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Aplicacion.01.csproj.GenerateResource.Cache
 C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Vogel.Damian.3D.exe
 C:\Users\FaiveL\Desktop\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Vogel.Damian.3D.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\bin\Debug\Vogel.Damian.3D.exe
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\bin\Debug\Vogel.Damian.3D.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Aplicacion.01.csprojResolveAssemblyReference.cache
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Vogel.Damian._3D.Form1.resources
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Vogel.Damian._3D.Properties.Resources.resources
+C:\Personal\Damian\Personal\Laboratorio-3\Ejercicios - Solucion\Vogel.Damian.3D\obj\Debug\Aplicacion.01.csproj.GenerateResource.Cache
