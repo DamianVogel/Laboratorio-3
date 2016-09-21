@@ -34,7 +34,7 @@ namespace FrmPrincipal
             frmMedico.ShowDialog(this);
             if (frmMedico.DialogResult == DialogResult.OK)
             {
-                //Medico medico;
+                
             }
 
         }
