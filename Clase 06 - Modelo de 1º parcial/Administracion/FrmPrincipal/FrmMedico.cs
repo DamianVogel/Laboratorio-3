@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace FrmPrincipal
 {
-    public partial class FrmGestion : Form
+    public partial class FrmMedico : Form
     {
-        public FrmGestion()
+        public FrmMedico()
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            FrmMedico frmMedico = new FrmMedico();
-            frmMedico.ShowDialog(this);
-        }
-        
-        
-    
-    
     }
 }
