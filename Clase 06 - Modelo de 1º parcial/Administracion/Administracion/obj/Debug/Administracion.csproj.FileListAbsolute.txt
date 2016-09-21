@@ -3,3 +3,8 @@ D:\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\
 D:\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\obj\Debug\Administracion.csprojResolveAssemblyReference.cache
 D:\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\obj\Debug\Administracion.dll
 D:\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\obj\Debug\Administracion.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\bin\Debug\Administracion.dll
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\bin\Debug\Administracion.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\obj\Debug\Administracion.csprojResolveAssemblyReference.cache
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\obj\Debug\Administracion.dll
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\Administracion\obj\Debug\Administracion.pdb

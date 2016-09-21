@@ -10,3 +10,16 @@ D:\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\ob
 D:\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\Formularios.csproj.GenerateResource.Cache
 D:\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.exe
 D:\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\bin\Debug\Administracion.dll
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\bin\Debug\Administracion.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.FrmPrincipal.resources
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.FrmGestion.resources
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.FrmMedico.resources
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\Formularios.csproj.GenerateResource.Cache

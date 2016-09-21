@@ -14,21 +14,23 @@ namespace FrmPrincipal
     public partial class FrmMedico : Form
     {
         protected Medico unMedico;
+        public Medico UnMedico { get { return this.unMedico; } }
         
         public FrmMedico()
         {
-            //unMedico = new Medico(this.textBox1, this.textBox2, this.comboBox1);
-            this.comboBox1.Items.Add(eEspecialidades.Cardiologo);
-            this.comboBox1.Items.Add(eEspecialidades.Clinico);
-            this.comboBox1.Items.Add(eEspecialidades.Pediatra);
             
             InitializeComponent();
+            
+            foreach (eEspecialidades elementoEnumerado in Enum.GetValues(typeof(eEspecialidades)))
+            {
+                this.cmbEspecialidad.Items.Add(elementoEnumerado);
+            }
         }
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            
-            
+
+            this.DialogResult = System.Windows.Forms.DialogResult.OK;
             
         }
     

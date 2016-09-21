@@ -12,3 +12,8 @@ C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.dll
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\bin\Debug\Entidades.dll
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.dll
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\Entidades\obj\Debug\Entidades.pdb
