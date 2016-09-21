@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Administracion
 {
-    class MedicoSalida:Medico
+    public class MedicoSalida:Medico
     {
         protected double _salario;
         protected DateTime _egreso;
