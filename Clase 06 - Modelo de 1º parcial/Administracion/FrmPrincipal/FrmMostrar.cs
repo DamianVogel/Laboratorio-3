@@ -12,6 +12,9 @@ namespace FrmPrincipal
 {
     public partial class FrmMostrar : Form
     {
+        
+        
+        
         public FrmMostrar()
         {
             InitializeComponent();
