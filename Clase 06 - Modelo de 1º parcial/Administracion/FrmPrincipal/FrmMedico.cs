@@ -29,6 +29,7 @@ namespace FrmPrincipal
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
+            this.unMedico = new Medico(this.txtNombre.Text, this.txtLegajo.Text, (eEspecialidades)this.cmbEspecialidad.SelectedItem);
 
             this.DialogResult = System.Windows.Forms.DialogResult.OK;
             

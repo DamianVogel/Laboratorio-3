@@ -32,8 +32,10 @@ namespace FrmPrincipal
         {
             FrmMedico frmMedico = new FrmMedico();
             frmMedico.ShowDialog(this);
+            
             if (frmMedico.DialogResult == DialogResult.OK)
             {
+                this.medico.Add(frmMedico.UnMedico);
                 
             }
 
