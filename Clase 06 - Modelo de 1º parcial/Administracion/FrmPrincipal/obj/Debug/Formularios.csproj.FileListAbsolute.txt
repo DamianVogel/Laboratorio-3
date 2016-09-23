@@ -23,3 +23,4 @@ C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administr
 C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.FrmMedico.resources
 C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
 C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\Formularios.csproj.GenerateResource.Cache
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 06 - Modelo de 1º parcial\Administracion\FrmPrincipal\obj\Debug\FrmPrincipal.FrmMostrar.resources

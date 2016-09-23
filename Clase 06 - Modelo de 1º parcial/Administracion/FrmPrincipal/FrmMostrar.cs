@@ -18,6 +18,7 @@ namespace FrmPrincipal
         public FrmMostrar()
         {
             InitializeComponent();
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
         }
     }
 }

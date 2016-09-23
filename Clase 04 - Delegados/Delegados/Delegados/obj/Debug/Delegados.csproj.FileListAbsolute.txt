@@ -15,3 +15,6 @@ D:\Vogel.Damian\temp\Clase 04 - Delegados\Delegados\Delegados\obj\Debug\Delegado
 d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados\Delegados\bin\Debug\Delegados.exe.config
 d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados\Delegados\obj\Debug\Delegados.exe
 d:\Users\Sofia Bontempo\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados\Delegados\obj\Debug\Delegados.pdb
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados\Delegados\bin\Debug\Delegados.exe.config
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados\Delegados\obj\Debug\Delegados.exe
+C:\Users\dvogel\Desktop\Laboratorio-3\Clase 04 - Delegados\Delegados\Delegados\obj\Debug\Delegados.pdb
