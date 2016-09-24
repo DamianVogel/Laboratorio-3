@@ -30,7 +30,7 @@
         {
             this.button1 = new System.Windows.Forms.Button();
             this.btnSalida = new System.Windows.Forms.Button();
-            this.btnOrdenar = new System.Windows.Forms.Button();
+            this.btnModificar = new System.Windows.Forms.Button();
             this.lstMedicos = new System.Windows.Forms.ListBox();
             this.cmbOrdenamiento = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
@@ -54,15 +54,15 @@
             this.btnSalida.Text = "btnSalida";
             this.btnSalida.UseVisualStyleBackColor = true;
             // 
-            // btnOrdenar
+            // btnModificar
             // 
-            this.btnOrdenar.Location = new System.Drawing.Point(314, 396);
-            this.btnOrdenar.Name = "btnOrdenar";
-            this.btnOrdenar.Size = new System.Drawing.Size(75, 23);
-            this.btnOrdenar.TabIndex = 3;
-            this.btnOrdenar.Text = "Ordenar";
-            this.btnOrdenar.UseVisualStyleBackColor = true;
-            this.btnOrdenar.Click += new System.EventHandler(this.btnOrdenar_Click);
+            this.btnModificar.Location = new System.Drawing.Point(314, 396);
+            this.btnModificar.Name = "btnModificar";
+            this.btnModificar.Size = new System.Drawing.Size(75, 23);
+            this.btnModificar.TabIndex = 3;
+            this.btnModificar.Text = "Modificar";
+            this.btnModificar.UseVisualStyleBackColor = true;
+            this.btnModificar.Click += new System.EventHandler(this.btnOrdenar_Click);
             // 
             // lstMedicos
             // 
@@ -79,6 +79,7 @@
             this.cmbOrdenamiento.Name = "cmbOrdenamiento";
             this.cmbOrdenamiento.Size = new System.Drawing.Size(121, 21);
             this.cmbOrdenamiento.TabIndex = 4;
+            this.cmbOrdenamiento.SelectedIndexChanged += new System.EventHandler(this.cmbOrdenamiento_SelectedIndexChanged);
             // 
             // FrmGestion
             // 
@@ -86,7 +87,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(556, 443);
             this.Controls.Add(this.cmbOrdenamiento);
-            this.Controls.Add(this.btnOrdenar);
+            this.Controls.Add(this.btnModificar);
             this.Controls.Add(this.btnSalida);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lstMedicos);
@@ -100,7 +101,7 @@
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnSalida;
-        private System.Windows.Forms.Button btnOrdenar;
+        private System.Windows.Forms.Button btnModificar;
         private System.Windows.Forms.ListBox lstMedicos;
         private System.Windows.Forms.ComboBox cmbOrdenamiento;
     }

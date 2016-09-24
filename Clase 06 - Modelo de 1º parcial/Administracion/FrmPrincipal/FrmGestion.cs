@@ -50,8 +50,25 @@ namespace FrmPrincipal
 
         private void btnOrdenar_Click(object sender, EventArgs e)
         {
-            Comparison<Medico> prueba;
+            int seleccion = this.lstMedicos.SelectedIndex;
+
+            Medico medSel = new Medico(this.medico[seleccion].Nombre, this.medico[seleccion].Legajo, this.medico[seleccion].Especialidad);
+
+            FrmMedico frmMedico = new FrmMedico();
+
+            frmMedico.ShowDialog(this);
             
+            
+            
+            
+            
+        }
+
+        private void cmbOrdenamiento_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+            Comparison<Medico> prueba;
+
             if (this.cmbOrdenamiento.SelectedItem.ToString() == "Por Legajo")
             {
 
@@ -65,14 +82,26 @@ namespace FrmPrincipal
                     this.lstMedicos.Items.Add(med);
                 }
             }
-            
+
             if (this.cmbOrdenamiento.SelectedItem.ToString() == "Por Horario")
             {
                 prueba = new Comparison<Medico>(Medico.OrdenarPorHorarioEntrada);
                 this.medico.Sort(prueba);
-            
+
+                this.lstMedicos.Items.Clear();
+
+                foreach (Medico med in medico)
+                {
+                    this.lstMedicos.Items.Add(med);
+                }
+
+
             }
-        
+
+
+
+
+
         }
         
             
