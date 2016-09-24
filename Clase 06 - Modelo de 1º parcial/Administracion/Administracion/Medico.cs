@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Administracion
 {
     public class Medico
@@ -28,7 +29,7 @@ namespace Administracion
         public string Nombre { get{return this._nombre;} set{this._nombre=value; }}
 
 
-        public int OrdenarPorHorarioEntrada(Medico m1, Medico m2)
+        public static int OrdenarPorHorarioEntrada(Medico m1, Medico m2)
         {
             if (m1._horarioEntrada > m2._horarioEntrada)
             {
@@ -44,7 +45,7 @@ namespace Administracion
         
         }
 
-        public int OrdenarPorLegajo(Medico m1, Medico m2)
+        public static int OrdenarPorLegajo(Medico m1, Medico m2)
         {
             
             if (int.Parse(m1._legajo) > int.Parse(m2._legajo))
@@ -66,14 +67,14 @@ namespace Administracion
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.Append("Nombre: ");
-            sb.AppendLine(this._nombre);
-            sb.Append("Legajo: ");
-            sb.AppendLine(this._legajo);
-            sb.Append("Especialidad: ");
-            sb.AppendLine(this._especialidad.ToString());
-            sb.Append("horario de Entrada: ");
-            sb.AppendLine(this._horarioEntrada.ToString());
+           // sb.Append("Nombre: ");
+            sb.Append(this._nombre);
+            sb.Append(" - ");
+            sb.Append(this._legajo);
+            sb.Append(" - ");
+            sb.Append(this._especialidad.ToString());
+            sb.Append(" - ");
+            sb.Append(this._horarioEntrada.ToString());
 
             return sb.ToString();
         

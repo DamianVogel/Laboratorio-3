@@ -19,3 +19,6 @@ C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\D
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.Properties.Resources.resources
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.csproj.GenerateResource.Cache
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\DemoTecla\DemoTecla\bin\Debug\DemoTecla.exe.config
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\DemoTecla\DemoTecla\obj\Debug\DemoTecla.pdb

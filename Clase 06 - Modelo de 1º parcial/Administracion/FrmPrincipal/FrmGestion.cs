@@ -23,9 +23,16 @@ namespace FrmPrincipal
             InitializeComponent();
             this.medico = new List<Medico>();
             this.medicoSalida = new List<MedicoSalida>();
+            
+
+           
             this.cmbOrdenamiento.Items.Add("Por Horario");
             this.cmbOrdenamiento.Items.Add("Por Legajo");
+
+            this.cmbOrdenamiento.SelectedIndex = 1;
+
             
+           
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -36,23 +43,34 @@ namespace FrmPrincipal
             if (frmMedico.DialogResult == DialogResult.OK)
             {
                 this.medico.Add(frmMedico.UnMedico);
-                
+                this.lstMedicos.Items.Add(frmMedico.UnMedico);
             }
 
         }
 
         private void btnOrdenar_Click(object sender, EventArgs e)
         {
+            Comparison<Medico> prueba;
+            
             if (this.cmbOrdenamiento.SelectedItem.ToString() == "Por Legajo")
             {
-                Medico a = (Medico)sender;
-                medico.Sort(a.OrdenarPorHorarioEntrada);
+
+                prueba = new Comparison<Medico>(Medico.OrdenarPorLegajo);
+                this.medico.Sort(prueba);
+
+                this.lstMedicos.Items.Clear();
+
+                foreach (Medico med in medico)
+                {
+                    this.lstMedicos.Items.Add(med);
+                }
             }
             
             if (this.cmbOrdenamiento.SelectedItem.ToString() == "Por Horario")
             {
-                Medico a = (Medico)sender;
-                medico.Sort(a.OrdenarPorLegajo);
+                prueba = new Comparison<Medico>(Medico.OrdenarPorHorarioEntrada);
+                this.medico.Sort(prueba);
+            
             }
         
         }

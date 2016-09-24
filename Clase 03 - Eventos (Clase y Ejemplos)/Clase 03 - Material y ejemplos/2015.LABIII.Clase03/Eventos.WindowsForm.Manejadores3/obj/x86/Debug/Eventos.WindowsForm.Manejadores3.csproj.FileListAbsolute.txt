@@ -7,3 +7,11 @@ c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03
 c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase03_1\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.pdb
 D:\Users\chris_000\Downloads\2015.LABIII.Clase03\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.exe
 D:\Users\chris_000\Downloads\2015.LABIII.Clase03\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Material y ejemplos\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Material y ejemplos\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Material y ejemplos\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\bin\Debug\Eventos.WindowsForm.Manejadores3.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Material y ejemplos\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\bin\Debug\Eventos.WindowsForm.Manejadores3.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Material y ejemplos\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.csprojResolveAssemblyReference.cache
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Material y ejemplos\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.frmPasarManejador.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Material y ejemplos\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.Properties.Resources.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 03 - Eventos (Clase y Ejemplos)\Clase 03 - Material y ejemplos\2015.LABIII.Clase03\Eventos.WindowsForm.Manejadores3\obj\x86\Debug\Eventos.WindowsForm.Manejadores3.csproj.GenerateResource.Cache

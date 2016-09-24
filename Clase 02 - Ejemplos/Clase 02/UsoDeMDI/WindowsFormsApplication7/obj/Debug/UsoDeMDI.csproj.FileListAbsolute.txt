@@ -34,3 +34,13 @@ C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\UsoDeMDI\WindowsFormsApplicatio
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\UsoDeMDI.csproj.GenerateResource.Cache
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\UsoDeMDI.csprojResolveAssemblyReference.cache
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DemoMDI.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.frmHijo.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\UsoDeMDI\WindowsFormsApplication7\obj\Debug\UsoDeMDI.csproj.GenerateResource.Cache

@@ -64,3 +64,17 @@ C:\Users\dvogel\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.C
 C:\Users\dvogel\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csproj.GenerateResource.Cache
 C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.exe
 C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\01TipoForms.Herencia.Menu.exe
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\01TipoForms.Herencia.Menu.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\Entidades.dll
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\bin\Debug\Entidades.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csprojResolveAssemblyReference.cache
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmAnclar.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmEmpleado.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmInicio.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmMenu.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmMostrarConMenus.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmOutLine_esquema.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.frmPersona.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\_01TipoForms.Herencia.Menu.Properties.Resources.resources
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Ejemplos\Clase 02\2015.LABIII.Clase02\2015.LABIII.Clase02\01TipoForms.Herencia.Menu\obj\x86\Debug\01TipoForms.Herencia.Menu.csproj.GenerateResource.Cache
