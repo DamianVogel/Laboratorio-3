@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
-            this.b = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnSalida = new System.Windows.Forms.Button();
+            this.btnOrdenar = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cmbOrdenamiento = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // button1
@@ -45,23 +45,24 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // b
+            // btnSalida
             // 
-            this.b.Location = new System.Drawing.Point(198, 396);
-            this.b.Name = "b";
-            this.b.Size = new System.Drawing.Size(75, 23);
-            this.b.TabIndex = 2;
-            this.b.Text = "button2";
-            this.b.UseVisualStyleBackColor = true;
+            this.btnSalida.Location = new System.Drawing.Point(198, 396);
+            this.btnSalida.Name = "btnSalida";
+            this.btnSalida.Size = new System.Drawing.Size(75, 23);
+            this.btnSalida.TabIndex = 2;
+            this.btnSalida.Text = "btnSalida";
+            this.btnSalida.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnOrdenar
             // 
-            this.button3.Location = new System.Drawing.Point(314, 396);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnOrdenar.Location = new System.Drawing.Point(314, 396);
+            this.btnOrdenar.Name = "btnOrdenar";
+            this.btnOrdenar.Size = new System.Drawing.Size(75, 23);
+            this.btnOrdenar.TabIndex = 3;
+            this.btnOrdenar.Text = "Ordenar";
+            this.btnOrdenar.UseVisualStyleBackColor = true;
+            this.btnOrdenar.Click += new System.EventHandler(this.btnOrdenar_Click);
             // 
             // listBox1
             // 
@@ -71,22 +72,22 @@
             this.listBox1.Size = new System.Drawing.Size(374, 329);
             this.listBox1.TabIndex = 0;
             // 
-            // comboBox1
+            // cmbOrdenamiento
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(423, 396);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 4;
+            this.cmbOrdenamiento.FormattingEnabled = true;
+            this.cmbOrdenamiento.Location = new System.Drawing.Point(423, 396);
+            this.cmbOrdenamiento.Name = "cmbOrdenamiento";
+            this.cmbOrdenamiento.Size = new System.Drawing.Size(121, 21);
+            this.cmbOrdenamiento.TabIndex = 4;
             // 
             // FrmGestion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(556, 443);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.b);
+            this.Controls.Add(this.cmbOrdenamiento);
+            this.Controls.Add(this.btnOrdenar);
+            this.Controls.Add(this.btnSalida);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.listBox1);
             this.Name = "FrmGestion";
@@ -98,9 +99,9 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button b;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnSalida;
+        private System.Windows.Forms.Button btnOrdenar;
         private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cmbOrdenamiento;
     }
 }

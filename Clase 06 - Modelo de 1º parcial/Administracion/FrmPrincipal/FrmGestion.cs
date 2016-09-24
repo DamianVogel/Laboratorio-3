@@ -23,9 +23,9 @@ namespace FrmPrincipal
             InitializeComponent();
             this.medico = new List<Medico>();
             this.medicoSalida = new List<MedicoSalida>();
+            this.cmbOrdenamiento.Items.Add("Por Horario");
+            this.cmbOrdenamiento.Items.Add("Por Legajo");
             
-            
-        
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -39,6 +39,22 @@ namespace FrmPrincipal
                 
             }
 
+        }
+
+        private void btnOrdenar_Click(object sender, EventArgs e)
+        {
+            if (this.cmbOrdenamiento.SelectedItem.ToString() == "Por Legajo")
+            {
+                Medico a = (Medico)sender;
+                medico.Sort(a.OrdenarPorHorarioEntrada);
+            }
+            
+            if (this.cmbOrdenamiento.SelectedItem.ToString() == "Por Horario")
+            {
+                Medico a = (Medico)sender;
+                medico.Sort(a.OrdenarPorLegajo);
+            }
+        
         }
         
             
