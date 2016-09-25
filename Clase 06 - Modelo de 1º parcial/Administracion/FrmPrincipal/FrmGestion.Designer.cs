@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
-            this.btnSalida = new System.Windows.Forms.Button();
+            this.btnEgreso = new System.Windows.Forms.Button();
             this.btnModificar = new System.Windows.Forms.Button();
             this.lstMedicos = new System.Windows.Forms.ListBox();
             this.cmbOrdenamiento = new System.Windows.Forms.ComboBox();
@@ -45,14 +45,15 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // btnSalida
+            // btnEgreso
             // 
-            this.btnSalida.Location = new System.Drawing.Point(198, 396);
-            this.btnSalida.Name = "btnSalida";
-            this.btnSalida.Size = new System.Drawing.Size(75, 23);
-            this.btnSalida.TabIndex = 2;
-            this.btnSalida.Text = "btnSalida";
-            this.btnSalida.UseVisualStyleBackColor = true;
+            this.btnEgreso.Location = new System.Drawing.Point(198, 396);
+            this.btnEgreso.Name = "btnEgreso";
+            this.btnEgreso.Size = new System.Drawing.Size(75, 23);
+            this.btnEgreso.TabIndex = 2;
+            this.btnEgreso.Text = "btnEgreso";
+            this.btnEgreso.UseVisualStyleBackColor = true;
+            this.btnEgreso.Click += new System.EventHandler(this.btnEgreso_Click);
             // 
             // btnModificar
             // 
@@ -88,7 +89,7 @@
             this.ClientSize = new System.Drawing.Size(556, 443);
             this.Controls.Add(this.cmbOrdenamiento);
             this.Controls.Add(this.btnModificar);
-            this.Controls.Add(this.btnSalida);
+            this.Controls.Add(this.btnEgreso);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lstMedicos);
             this.Name = "FrmGestion";
@@ -100,7 +101,7 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button btnSalida;
+        private System.Windows.Forms.Button btnEgreso;
         private System.Windows.Forms.Button btnModificar;
         private System.Windows.Forms.ListBox lstMedicos;
         private System.Windows.Forms.ComboBox cmbOrdenamiento;

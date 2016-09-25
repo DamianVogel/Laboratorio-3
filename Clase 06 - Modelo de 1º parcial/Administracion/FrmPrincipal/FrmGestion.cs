@@ -31,7 +31,8 @@ namespace FrmPrincipal
 
             this.cmbOrdenamiento.SelectedIndex = 1;
 
-            
+            this.btnModificar.Click -= btnOrdenar_Click;
+            this.btnEgreso.Click -= btnEgreso_Click;
            
         }
 
@@ -59,15 +60,25 @@ namespace FrmPrincipal
             formMed.txtLegajo.Text = medSel.Legajo;
             formMed.txtNombre.Text = medSel.Nombre;
             formMed.cmbEspecialidad.SelectedIndex = (int)medSel.Especialidad;
-            
-
-
+           
             formMed.ShowDialog(this);
 
-            
-            
-            
-            
+            if (formMed.DialogResult == DialogResult.OK)
+            {
+
+                this.medico.Insert(seleccion, formMed.UnMedico);
+                this.medico.RemoveAt(seleccion+1);
+                this.lstMedicos.Items.Clear();
+                foreach (Medico med in medico)
+                {
+                    this.lstMedicos.Items.Add(med);            
+                }
+                
+                
+            }
+        
+        
+        
         }
 
         private void cmbOrdenamiento_SelectedIndexChanged(object sender, EventArgs e)
@@ -107,6 +118,11 @@ namespace FrmPrincipal
 
 
 
+
+        }
+
+        private void btnEgreso_Click(object sender, EventArgs e)
+        {
 
         }
         
