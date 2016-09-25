@@ -18,6 +18,8 @@ namespace Administracion
         
         }
 
+        public double Salario { get {return this._salario;} }
+        
         protected double calcularSalario()
         {
             TimeSpan intervalo = this._egreso.Subtract(this._horarioEntrada);

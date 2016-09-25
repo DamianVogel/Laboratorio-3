@@ -123,7 +123,20 @@ namespace FrmPrincipal
 
         private void btnEgreso_Click(object sender, EventArgs e)
         {
+            int seleccion = this.lstMedicos.SelectedIndex;
 
+            MedicoSalida medSalida = new MedicoSalida(this.medico[seleccion]);
+            
+            FrmMedicoHeredado frmMedHeredado = new FrmMedicoHeredado();
+
+
+            frmMedHeredado.txtLegajo.Text = medSalida.Legajo;
+            frmMedHeredado.txtNombre.Text = medSalida.Nombre;
+            frmMedHeredado.cmbEspecialidad.SelectedIndex = (int)medSalida.Especialidad;
+            frmMedHeredado.txtSueldo.Text = medSalida.Salario.ToString();
+
+            frmMedHeredado.Show();
+        
         }
         
             
