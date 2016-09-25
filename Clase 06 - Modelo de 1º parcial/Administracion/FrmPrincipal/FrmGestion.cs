@@ -54,10 +54,16 @@ namespace FrmPrincipal
 
             Medico medSel = new Medico(this.medico[seleccion].Nombre, this.medico[seleccion].Legajo, this.medico[seleccion].Especialidad);
 
-            FrmMedico frmMedico = new FrmMedico();
+            FrmMedico formMed = new FrmMedico();
 
-            frmMedico.ShowDialog(this);
+            formMed.txtLegajo.Text = medSel.Legajo;
+            formMed.txtNombre.Text = medSel.Nombre;
+            formMed.cmbEspecialidad.SelectedIndex = (int)medSel.Especialidad;
             
+
+
+            formMed.ShowDialog(this);
+
             
             
             

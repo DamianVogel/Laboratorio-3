@@ -128,13 +128,13 @@
 
         #endregion
 
-        private System.Windows.Forms.ComboBox cmbEspecialidad;
-        private System.Windows.Forms.TextBox txtLegajo;
-        private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnAceptar;
         private System.Windows.Forms.Button btnCancelar;
+        protected internal System.Windows.Forms.ComboBox cmbEspecialidad;
+        protected internal System.Windows.Forms.TextBox txtLegajo;
+        protected internal System.Windows.Forms.TextBox txtNombre;
     }
 }

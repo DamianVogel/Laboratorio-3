@@ -25,6 +25,9 @@ namespace FrmPrincipal
             {
                 this.cmbEspecialidad.Items.Add(elementoEnumerado);
             }
+            
+            
+        
         }
 
         private void btnAceptar_Click(object sender, EventArgs e)
