@@ -45,7 +45,13 @@ namespace FrmPrincipal
             {
                 this.medico.Add(frmMedico.UnMedico);
                 this.lstMedicos.Items.Add(frmMedico.UnMedico);
-            }
+
+                if (this.medico.Count == 1)
+                {
+                    this.btnModificar.Click += this.btnOrdenar_Click;
+                    this.btnEgreso.Click += this.btnEgreso_Click;
+                }
+             }
 
         }
 
@@ -73,7 +79,8 @@ namespace FrmPrincipal
                 {
                     this.lstMedicos.Items.Add(med);            
                 }
-                
+
+                this.cmbOrdenamiento_SelectedIndexChanged(sender, e);
                 
             }
         
@@ -126,7 +133,9 @@ namespace FrmPrincipal
             int seleccion = this.lstMedicos.SelectedIndex;
 
             MedicoSalida medSalida = new MedicoSalida(this.medico[seleccion]);
-            
+
+            medSalida.Ingreso = this.medico[seleccion].Ingreso;
+
             FrmMedicoHeredado frmMedHeredado = new FrmMedicoHeredado();
 
 

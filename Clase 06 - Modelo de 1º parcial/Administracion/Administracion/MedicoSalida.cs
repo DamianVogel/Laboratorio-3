@@ -13,7 +13,7 @@ namespace Administracion
 
         public MedicoSalida(Medico unMedico):base(unMedico.Nombre,unMedico.Legajo,unMedico.Especialidad)
         {
-            this._egreso = DateTime.Now;
+            
             this._salario = this.calcularSalario();
         
         }
@@ -22,6 +22,8 @@ namespace Administracion
         
         protected double calcularSalario()
         {
+
+            this._egreso = DateTime.Now;
             TimeSpan intervalo = this._egreso.Subtract(this._horarioEntrada);
 
             double salarioCalculado = 0;
