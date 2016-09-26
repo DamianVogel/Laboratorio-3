@@ -149,7 +149,16 @@ namespace FrmPrincipal
             if (frmMedHeredado.DialogResult == System.Windows.Forms.DialogResult.OK)
             {
                 this.medicoSalida.Add(medSalida);
-                //Falta terminar todo esto!
+
+                this.medico.RemoveAt(seleccion);
+                this.lstMedicos.Items.Clear();
+                foreach (Medico med in medico)
+                {
+                    this.lstMedicos.Items.Add(med);
+                }
+
+                this.cmbOrdenamiento_SelectedIndexChanged(sender, e);
+
             }
         }
         
