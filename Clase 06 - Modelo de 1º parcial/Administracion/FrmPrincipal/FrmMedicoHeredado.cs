@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Administracion;
 
 namespace FrmPrincipal
 {
@@ -16,5 +17,20 @@ namespace FrmPrincipal
         {
             InitializeComponent();
         }
+
+        private override void btnAceptar_Click(object sender, EventArgs e)
+        {
+            base.btnAceptar_Click(sender,e);
+            
+            this.unMedico = new MedicoSalida(base.unMedico);
+
+            this.DialogResult = System.Windows.Forms.DialogResult.OK;
+
+        }
+    
+        
+    
+    
+    
     }
 }

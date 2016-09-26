@@ -134,7 +134,7 @@ namespace FrmPrincipal
 
             MedicoSalida medSalida = new MedicoSalida(this.medico[seleccion]);
 
-            medSalida.Ingreso = this.medico[seleccion].Ingreso;
+            //medSalida.Ingreso = this.medico[seleccion].Ingreso;
 
             FrmMedicoHeredado frmMedHeredado = new FrmMedicoHeredado();
 
@@ -145,7 +145,12 @@ namespace FrmPrincipal
             frmMedHeredado.txtSueldo.Text = medSalida.Salario.ToString();
 
             frmMedHeredado.Show();
-        
+
+            if (frmMedHeredado.DialogResult == System.Windows.Forms.DialogResult.OK)
+            {
+                this.medicoSalida.Add(medSalida);
+                //Falta terminar todo esto!
+            }
         }
         
             

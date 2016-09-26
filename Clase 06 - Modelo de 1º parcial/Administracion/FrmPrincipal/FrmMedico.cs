@@ -30,7 +30,7 @@ namespace FrmPrincipal
         
         }
 
-        private void btnAceptar_Click(object sender, EventArgs e)
+        protected virtual void btnAceptar_Click(object sender, EventArgs e)
         {
             this.unMedico = new Medico(this.txtNombre.Text, this.txtLegajo.Text, (eEspecialidades)this.cmbEspecialidad.SelectedItem);
 
