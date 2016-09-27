@@ -13,7 +13,7 @@ namespace FrmPrincipal
 {
     public partial class FrmPrincipal : Form
     {
-        public delegate List<Medico> DelegadoLista(Medico a, Medico b);
+        public delegate void DelegadoLista(List<Medico> a, List<MedicoSalida> b);
 
         public DelegadoLista miDelegado;
 
@@ -46,7 +46,7 @@ namespace FrmPrincipal
 
         public void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            DialogResult respuesta = MessageBox.Show("¿Realmente quiere salir de esta esplendida aplicacion?", "Atencion", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
+            DialogResult respuesta = MessageBox.Show("¿Realmente quiere salir de esta aplicacion?", "Atencion", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
 
             if (respuesta == DialogResult.Yes)
             {

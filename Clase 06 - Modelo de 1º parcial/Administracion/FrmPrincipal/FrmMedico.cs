@@ -32,10 +32,17 @@ namespace FrmPrincipal
 
         protected virtual void btnAceptar_Click(object sender, EventArgs e)
         {
-            this.unMedico = new Medico(this.txtNombre.Text, this.txtLegajo.Text, (eEspecialidades)this.cmbEspecialidad.SelectedItem);
+           // if (this.txtNombre.Text != null && this.txtLegajo.Text != null && (eEspecialidades)this.cmbEspecialidad.SelectedItem != null)
+            //{
+                this.unMedico = new Medico(this.txtNombre.Text, this.txtLegajo.Text, (eEspecialidades)this.cmbEspecialidad.SelectedItem);
 
-            this.DialogResult = System.Windows.Forms.DialogResult.OK;
-            
+                this.DialogResult = System.Windows.Forms.DialogResult.OK;
+            //}
+            //else
+              //  MessageBox.Show("Error, todos los campos deben ser completados","error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+           
+        
         }
     
         

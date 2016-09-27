@@ -13,34 +13,33 @@ namespace Administracion
 
         public MedicoSalida(Medico unMedico):base(unMedico.Nombre,unMedico.Legajo,unMedico.Especialidad)
         {
-            
-            this._salario = this.calcularSalario();
+
+            this._egreso = DateTime.Now;
         
         }
 
-        public double Salario { get {return this._salario;} }
+        public double Salario { get { return this.calcularSalario(); } }
         
         protected double calcularSalario()
         {
-
-            this._egreso = DateTime.Now;
+             
             TimeSpan intervalo = this._egreso.Subtract(this._horarioEntrada);
 
             double salarioCalculado = 0;
             
             if (this._especialidad == eEspecialidades.Cardiologo)
             {
-                salarioCalculado = intervalo.Minutes * 55;                 
+                salarioCalculado = intervalo.Seconds * 55;                 
             }
 
             if (this._especialidad == eEspecialidades.Clinico)
             {
-                salarioCalculado = intervalo.Minutes * 50;
+                salarioCalculado = intervalo.Seconds * 50;
             }
 
             if (this._especialidad == eEspecialidades.Pediatra)
             {
-                salarioCalculado = intervalo.Minutes * 45;
+                salarioCalculado = intervalo.Seconds * 45;
             }
 
             return salarioCalculado;

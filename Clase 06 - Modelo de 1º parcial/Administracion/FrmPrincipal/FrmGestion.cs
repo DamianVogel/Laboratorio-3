@@ -51,28 +51,37 @@ namespace FrmPrincipal
                     this.btnModificar.Click += this.btnOrdenar_Click;
                     this.btnEgreso.Click += this.btnEgreso_Click;
                 }
-             }
+
+                FrmPrincipal owner = (FrmPrincipal)this.Owner;
+                owner.miDelegado(this.medico,this.medicoSalida);
+            }
 
         }
 
         private void btnOrdenar_Click(object sender, EventArgs e)
         {
+            
+            
             int seleccion = this.lstMedicos.SelectedIndex;
 
-            Medico medSel = new Medico(this.medico[seleccion].Nombre, this.medico[seleccion].Legajo, this.medico[seleccion].Especialidad);
+            //Medico medSel = new Medico(this.medico[seleccion].Nombre, this.medico[seleccion].Legajo, this.medico[seleccion].Especialidad);
+            //medSel.Ingreso = this.medico[seleccion].Ingreso;
 
             FrmMedico formMed = new FrmMedico();
 
-            formMed.txtLegajo.Text = medSel.Legajo;
-            formMed.txtNombre.Text = medSel.Nombre;
-            formMed.cmbEspecialidad.SelectedIndex = (int)medSel.Especialidad;
+            formMed.txtLegajo.Text = this.medico[seleccion].Legajo;
+            formMed.txtNombre.Text = this.medico[seleccion].Nombre;
+            formMed.cmbEspecialidad.SelectedIndex = (int)this.medico[seleccion].Especialidad;
            
             formMed.ShowDialog(this);
 
             if (formMed.DialogResult == DialogResult.OK)
             {
 
-                this.medico.Insert(seleccion, formMed.UnMedico);
+                Medico medSel = new Medico(formMed.txtNombre.Text, formMed.txtLegajo.Text, (eEspecialidades)formMed.cmbEspecialidad.SelectedIndex);
+                medSel.Ingreso = this.medico[seleccion].Ingreso;               
+                // this.medico.Insert(seleccion, formMed.UnMedico);
+                this.medico.Insert(seleccion, medSel);
                 this.medico.RemoveAt(seleccion+1);
                 this.lstMedicos.Items.Clear();
                 foreach (Medico med in medico)
@@ -81,7 +90,16 @@ namespace FrmPrincipal
                 }
 
                 this.cmbOrdenamiento_SelectedIndexChanged(sender, e);
-                
+
+                if (this.medico.Count == 0)
+                {
+                    this.btnEgreso.Click -= this.btnEgreso_Click;
+                    this.btnModificar.Click -= this.btnOrdenar_Click;
+                }
+
+                FrmPrincipal owner = (FrmPrincipal)this.Owner;
+                owner.miDelegado(this.medico,this.medicoSalida);
+
             }
         
         
@@ -130,25 +148,40 @@ namespace FrmPrincipal
 
         private void btnEgreso_Click(object sender, EventArgs e)
         {
+           
             int seleccion = this.lstMedicos.SelectedIndex;
 
-            MedicoSalida medSalida = new MedicoSalida(this.medico[seleccion]);
+            
+            MedicoSalida medAuxSalida = new MedicoSalida(this.medico[seleccion]);
+            medAuxSalida.Ingreso = this.medico[seleccion].Ingreso;
+            
 
-            //medSalida.Ingreso = this.medico[seleccion].Ingreso;
 
             FrmMedicoHeredado frmMedHeredado = new FrmMedicoHeredado();
+            frmMedHeredado.txtLegajo.Text = this.medico[seleccion].Legajo;
+            frmMedHeredado.txtNombre.Text = this.medico[seleccion].Nombre;
+            frmMedHeredado.cmbEspecialidad.SelectedIndex = (int)this.medico[seleccion].Especialidad;
+            
+            frmMedHeredado.txtSueldo.Text = medAuxSalida.Salario.ToString();
 
-
-            frmMedHeredado.txtLegajo.Text = medSalida.Legajo;
-            frmMedHeredado.txtNombre.Text = medSalida.Nombre;
-            frmMedHeredado.cmbEspecialidad.SelectedIndex = (int)medSalida.Especialidad;
-            frmMedHeredado.txtSueldo.Text = medSalida.Salario.ToString();
-
-            frmMedHeredado.Show();
-
-            if (frmMedHeredado.DialogResult == System.Windows.Forms.DialogResult.OK)
+            foreach (Control text in frmMedHeredado.Controls)
             {
-                this.medicoSalida.Add(medSalida);
+                if (text is TextBox)
+                {
+                    TextBox txt = (TextBox)text;
+                    txt.ReadOnly = true;
+                }
+
+            }
+            
+            
+            
+            
+            frmMedHeredado.ShowDialog(this);
+
+            if (frmMedHeredado.DialogResult == DialogResult.OK)
+            {
+                this.medicoSalida.Add(medAuxSalida);
 
                 this.medico.RemoveAt(seleccion);
                 this.lstMedicos.Items.Clear();
@@ -158,7 +191,16 @@ namespace FrmPrincipal
                 }
 
                 this.cmbOrdenamiento_SelectedIndexChanged(sender, e);
+               
+                if (this.medico.Count == 0)
+                {
+                    this.btnEgreso.Click -= this.btnEgreso_Click;
+                    this.btnModificar.Click -= this.btnOrdenar_Click;
+                }
 
+                FrmPrincipal owner = (FrmPrincipal)this.Owner;
+                owner.miDelegado(this.medico,this.medicoSalida);
+            
             }
         }
         

@@ -37,9 +37,9 @@
             // listSalida
             // 
             this.listSalida.FormattingEnabled = true;
-            this.listSalida.Location = new System.Drawing.Point(312, 78);
+            this.listSalida.Location = new System.Drawing.Point(527, 78);
             this.listSalida.Name = "listSalida";
-            this.listSalida.Size = new System.Drawing.Size(179, 199);
+            this.listSalida.Size = new System.Drawing.Size(343, 199);
             this.listSalida.TabIndex = 0;
             // 
             // lstTrabajando
@@ -47,7 +47,7 @@
             this.lstTrabajando.FormattingEnabled = true;
             this.lstTrabajando.Location = new System.Drawing.Point(74, 78);
             this.lstTrabajando.Name = "lstTrabajando";
-            this.lstTrabajando.Size = new System.Drawing.Size(169, 199);
+            this.lstTrabajando.Size = new System.Drawing.Size(366, 199);
             this.lstTrabajando.TabIndex = 1;
             // 
             // lblTrabajando
@@ -62,7 +62,7 @@
             // lblSalida
             // 
             this.lblSalida.AutoSize = true;
-            this.lblSalida.Location = new System.Drawing.Point(309, 60);
+            this.lblSalida.Location = new System.Drawing.Point(524, 60);
             this.lblSalida.Name = "lblSalida";
             this.lblSalida.Size = new System.Drawing.Size(36, 13);
             this.lblSalida.TabIndex = 3;
@@ -72,13 +72,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(556, 380);
+            this.ClientSize = new System.Drawing.Size(986, 380);
             this.Controls.Add(this.lblSalida);
             this.Controls.Add(this.lblTrabajando);
             this.Controls.Add(this.lstTrabajando);
             this.Controls.Add(this.listSalida);
             this.Name = "FrmMostrar";
             this.Text = "FrmMostrar";
+            this.Load += new System.EventHandler(this.FrmMostrar_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

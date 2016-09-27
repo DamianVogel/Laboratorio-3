@@ -18,15 +18,7 @@ namespace FrmPrincipal
             InitializeComponent();
         }
 
-        protected override void btnAceptar_Click(object sender, EventArgs e)
-        {
-            base.btnAceptar_Click(sender,e);
-            
-           // this.unMedico = new MedicoSalida(base.unMedico);
-
-           //this.DialogResult = System.Windows.Forms.DialogResult.OK;
-
-        }
+       
     
         
     
