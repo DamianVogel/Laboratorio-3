@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Mascota
+namespace FrmPrincipal
 {
-    class Mascota:Animal
+    public class Mascota:Animal
     {
         protected string _nombre;
         protected eTipoDeMascota _tipoDeMascota;
@@ -25,7 +25,7 @@ namespace Mascota
         public eTipoDeMascota TipoDeMascota { get { return this._tipoDeMascota; } }
 
 
-        public int OrdenarPorEdad(Mascota mascotaUno, Mascota mascotaDos)
+        public static int OrdenarPorEdad(Mascota mascotaUno, Mascota mascotaDos)
         {
             if (mascotaUno._edad > mascotaDos._edad)
             {
@@ -40,7 +40,7 @@ namespace Mascota
             return 0;
         }
 
-        public int OrdenarPorNombre(Mascota mascotaUno, Mascota mascotaDos)
+        public static int OrdenarPorNombre(Mascota mascotaUno, Mascota mascotaDos)
         {
 
             return String.Compare(mascotaUno._nombre, mascotaDos._nombre);
@@ -48,7 +48,7 @@ namespace Mascota
         }
 
 
-        public int OrdenarPorTipo(Mascota mascotaUno, Mascota mascotaDos)
+        public static int OrdenarPorTipo(Mascota mascotaUno, Mascota mascotaDos)
         {
 
             return String.Compare(mascotaUno._tipoDeMascota.ToString(), mascotaDos._tipoDeMascota.ToString());

@@ -1,0 +1,4 @@
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 06 - 2º Modelo de 1º parcial\Ejercicio Parcial Mascota\Animal\bin\Debug\Animal.dll
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 06 - 2º Modelo de 1º parcial\Ejercicio Parcial Mascota\Animal\bin\Debug\Animal.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 06 - 2º Modelo de 1º parcial\Ejercicio Parcial Mascota\Animal\obj\Debug\Animal.dll
+C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 06 - 2º Modelo de 1º parcial\Ejercicio Parcial Mascota\Animal\obj\Debug\Animal.pdb
