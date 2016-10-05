@@ -1,0 +1,10 @@
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\bin\Debug\PruebaForm.exe.config
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\bin\Debug\PruebaForm.exe
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\bin\Debug\PruebaForm.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\bin\Debug\PruebaControles.dll
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\bin\Debug\PruebaControles.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\obj\Debug\PruebaForm.csprojResolveAssemblyReference.cache
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\obj\Debug\PruebaForm.Properties.Resources.resources
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\obj\Debug\PruebaForm.csproj.GenerateResource.Cache
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\obj\Debug\PruebaForm.exe
+C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaForm\obj\Debug\PruebaForm.pdb

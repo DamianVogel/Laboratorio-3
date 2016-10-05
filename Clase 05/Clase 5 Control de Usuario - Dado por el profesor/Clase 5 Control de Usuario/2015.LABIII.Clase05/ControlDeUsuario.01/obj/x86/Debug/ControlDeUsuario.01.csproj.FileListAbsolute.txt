@@ -40,3 +40,13 @@ C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.C
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.frmHerenciaDeControles.resources
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.Properties.Resources.resources
 C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csproj.GenerateResource.Cache
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.exe
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\ControlDeUsuario.01.exe
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\ControlDeUsuario.01.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\MisControles.dll
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\MisControles.pdb
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csprojResolveAssemblyReference.cache
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.frmHerenciaDeControles.resources
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.Properties.Resources.resources
+C:\Personal\Damian\Personal\Laboratorio-3\Clase 05\Clase 5 Control de Usuario - Dado por el profesor\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csproj.GenerateResource.Cache
