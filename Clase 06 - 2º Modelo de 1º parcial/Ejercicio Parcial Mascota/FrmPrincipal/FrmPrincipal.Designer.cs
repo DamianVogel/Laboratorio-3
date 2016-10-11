@@ -35,6 +35,7 @@
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tscmbOrdenamiento = new System.Windows.Forms.ToolStripComboBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.mostrarListadoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -45,7 +46,8 @@
             this.bajaToolStripMenuItem,
             this.modificarToolStripMenuItem,
             this.salirToolStripMenuItem,
-            this.tscmbOrdenamiento});
+            this.tscmbOrdenamiento,
+            this.mostrarListadoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(510, 27);
@@ -92,6 +94,13 @@
             this.listBox1.TabIndex = 1;
             this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
+            // mostrarListadoToolStripMenuItem
+            // 
+            this.mostrarListadoToolStripMenuItem.Name = "mostrarListadoToolStripMenuItem";
+            this.mostrarListadoToolStripMenuItem.Size = new System.Drawing.Size(101, 23);
+            this.mostrarListadoToolStripMenuItem.Text = "Mostrar Listado";
+            this.mostrarListadoToolStripMenuItem.Click += new System.EventHandler(this.mostrarListadoToolStripMenuItem_Click);
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -102,6 +111,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FrmPrincipal";
             this.Text = "FrmPrincipal";
+            this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -118,6 +128,7 @@
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
         private System.Windows.Forms.ToolStripComboBox tscmbOrdenamiento;
         private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ToolStripMenuItem mostrarListadoToolStripMenuItem;
     }
 }
 

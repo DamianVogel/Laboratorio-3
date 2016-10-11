@@ -57,6 +57,12 @@
     <Compile Include="FrmMascota.Designer.cs">
       <DependentUpon>FrmMascota.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmMostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMostrar.Designer.cs">
+      <DependentUpon>FrmMostrar.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMascota.resx">
       <DependentUpon>FrmMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrar.resx">
+      <DependentUpon>FrmMostrar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>

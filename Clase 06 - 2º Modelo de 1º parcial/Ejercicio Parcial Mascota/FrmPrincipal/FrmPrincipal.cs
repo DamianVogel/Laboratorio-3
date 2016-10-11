@@ -12,6 +12,12 @@ namespace FrmPrincipal
 {
     public partial class FrmPrincipal : Form
     {
+
+        public delegate void Delegado(List<Mascota> lista);
+
+        public Delegado miDelegado;
+        
+        
         private List<Mascota> _listaMascota;
         
         public FrmPrincipal()
@@ -29,7 +35,7 @@ namespace FrmPrincipal
             //this.listBox1.SelectedIndexChanged += this.listBox1_SelectedIndexChanged;
         
         }
-
+        //Ordenamiento
         private void toolStripComboBox1_Click(object sender, EventArgs e)
         {
 
@@ -97,7 +103,7 @@ namespace FrmPrincipal
             FrmMascota frmMascota = new FrmMascota();
            // frmMascota.Show(this);
 
-            if (frmMascota.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            if (frmMascota.ShowDialog(this) == System.Windows.Forms.DialogResult.OK)
             {
                 this._listaMascota.Add(frmMascota.UnaMascota);
                 this.listBox1.Items.Clear();
@@ -108,7 +114,10 @@ namespace FrmPrincipal
                 
                 }
 
-               
+                //FrmPrincipal dueño = (FrmPrincipal)this.Owner;
+                //dueño.miDelegado(this._listaMascota);
+
+                miDelegado(this._listaMascota);
             }
           
         
@@ -116,11 +125,8 @@ namespace FrmPrincipal
 
         private void ManejadorCentral(object sender, EventArgs e)
         {
-            this.modificarToolStripMenuItem.Click -= this.ManejadorCentral;
-            this.bajaToolStripMenuItem.Click -= this.ManejadorCentral;
-            
-            
-            //Button boton = (Button)sender;
+           // this.modificarToolStripMenuItem.Click -= this.ManejadorCentral;
+            //this.bajaToolStripMenuItem.Click -= this.ManejadorCentral;
 
             ToolStripMenuItem boton = (ToolStripMenuItem)sender;
 
@@ -128,12 +134,45 @@ namespace FrmPrincipal
 
             if (boton.Text == this.modificarToolStripMenuItem.Text)
             {
-               
+                
+                FrmMascota frmMod = new FrmMascota();
+
+
+                Mascota mascotaBaja = (Mascota)this.listBox1.SelectedItem;
+
+                frmMod.txtEdad.Text = mascotaBaja.Edad.ToString();
+                frmMod.txtName.Text = mascotaBaja.Nombre;
+                frmMod.cmbMascota.SelectedIndex = (int)mascotaBaja.TipoDeMascota;
+
+                if (frmMod.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+                {
+                    this.modificarToolStripMenuItem.Click -= this.ManejadorCentral;
+                    int indice = this.listBox1.SelectedIndex;
+
+                    this._listaMascota.RemoveAt(indice);
+
+                    this._listaMascota.Add(frmMod.UnaMascota);
+                    
+                    this.listBox1.Items.Clear();
+
+                    foreach (Mascota masc in this._listaMascota)
+                    {
+                        this.listBox1.Items.Add(masc);
+
+                    }
+
+                    
+                    miDelegado(this._listaMascota);
+
+                }
+                
+
             
             }
 
             if (boton.Text == this.bajaToolStripMenuItem.Text)
             {
+
 
                 FrmMascota frmBaja = new FrmMascota();
 
@@ -144,7 +183,26 @@ namespace FrmPrincipal
                 frmBaja.txtName.Text = mascotaBaja.Nombre;
                 frmBaja.cmbMascota.SelectedIndex = (int)mascotaBaja.TipoDeMascota;
 
-                frmBaja.Show();
+                if (frmBaja.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+                {
+                    this.bajaToolStripMenuItem.Click -= this.ManejadorCentral;
+
+                    int indice = this.listBox1.SelectedIndex;
+                    
+                    this._listaMascota.RemoveAt(indice);
+
+                    this.listBox1.Items.Clear();
+
+                    foreach (Mascota masc in this._listaMascota)
+                    {
+                        this.listBox1.Items.Add(masc);
+
+                    }
+
+                    //FrmPrincipal dueño = (FrmPrincipal)this.Owner;
+                    miDelegado(this._listaMascota);
+                
+                }
 
             }
         
@@ -173,9 +231,43 @@ namespace FrmPrincipal
         
         
         }
+
+        private void CerrarFormulario(object sender, FormClosingEventArgs e)
+        {
+
+           // Form miMB = new Form();
+
+            //miMB.BackColor = Color.DarkGray;
+            //miMB.Text = "Salir?";
+            
+            
+            DialogResult respuesta = MessageBox.Show("Desea cerrar la aplicacion?", "Salir?", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+
+
+            if (respuesta == System.Windows.Forms.DialogResult.Cancel)
+            {
+                e.Cancel = true;
+            }
+            else
+             e.Cancel = false;
+        }
+
+        private void FrmPrincipal_Load(object sender, EventArgs e)
+        {
+            this.FormClosing+=this.CerrarFormulario;
+            
+        
+        }
+
+        private void mostrarListadoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmMostrar frmMostrar = new FrmMostrar();
+            frmMostrar.Show(this);
+
+        }
     
-    
-    
+
+
     
     
     }
