@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Entidades;
+
 
 namespace Delegados_Ejercicios_Aplicacion01
 {
@@ -16,9 +18,14 @@ namespace Delegados_Ejercicios_Aplicacion01
     {
         public delegate void Delegado(string a);
 
+        public delegate void DelegadoAlumno(Alumno alumno);
+
         public Delegado miDelegado;
-       
-        
+
+        public Delegado miDelegado2;
+
+        public DelegadoAlumno miDelegado3;
+
         public FrmPrincipal()
         {
             InitializeComponent();
@@ -41,8 +48,29 @@ namespace Delegados_Ejercicios_Aplicacion01
 
         private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
+           
+        }
+
+        private void alumnoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmDatosAlumno formAlumno = new FrmDatosAlumno();
+            formAlumno.Show(this);
+
+        }
+
+        private void alumnosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmAltaAlumno formAltaAlumno = new FrmAltaAlumno();
+            formAltaAlumno.Show(this);
+
+        }
+
+        private void testToolStripMenuItem_Click(object sender, EventArgs e)
+        {
             frmDatos frmDatos = new frmDatos();
             frmDatos.Show(this);
+
+
         }
 
     } 

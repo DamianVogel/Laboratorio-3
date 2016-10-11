@@ -34,8 +34,10 @@ namespace FrmPrincipal
 
         protected override void btnAceptar_Click(object sender, EventArgs e)
         {
+            
             this.unaMascota = new Mascota(this.txtName.Text,(eTipoDeMascota)this.cmbMascota.SelectedItem,int.Parse(this.txtEdad.Text));
-           // base.btnAceptar_Click(sender, e);
+            //base.btnAceptar_Click(sender, e);
+            this.DialogResult = DialogResult.OK;
         }
     
     

@@ -32,8 +32,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Log" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -50,11 +54,23 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmAltaAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAltaAlumno.Designer.cs">
+      <DependentUpon>FrmAltaAlumno.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmDatos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmDatos.Designer.cs">
       <DependentUpon>FrmDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatosAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosAlumno.Designer.cs">
+      <DependentUpon>FrmDatosAlumno.cs</DependentUpon>
     </Compile>
     <Compile Include="frmTestDelegados.cs">
       <SubType>Form</SubType>
@@ -67,8 +83,14 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmAltaAlumno.resx">
+      <DependentUpon>FrmAltaAlumno.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmDatos.resx">
       <DependentUpon>FrmDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosAlumno.resx">
+      <DependentUpon>FrmDatosAlumno.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTestDelegados.resx">
       <DependentUpon>frmTestDelegados.cs</DependentUpon>
@@ -94,6 +116,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{2431d143-bbb7-4e15-a678-7cb7a63f6f69}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

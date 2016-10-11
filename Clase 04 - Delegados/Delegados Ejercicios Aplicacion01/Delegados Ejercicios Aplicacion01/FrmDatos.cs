@@ -22,11 +22,20 @@ namespace Delegados_Ejercicios_Aplicacion01
             this.label1.Text = texto;
         }
 
+        public void ActualizarFoto(string texto)
+        {
+            this.pictureBox1.Image = Image.FromFile(texto);
+           
+            
+        }
+
+
         private void frmDatos_Load(object sender, EventArgs e)
         {
             FrmPrincipal owner = (FrmPrincipal)this.Owner;
             owner.miDelegado = this.ActualizarNombre;
-        
+            owner.miDelegado2 = this.ActualizarFoto;
+            
         }
     
     

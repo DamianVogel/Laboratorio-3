@@ -1,9 +1,0 @@
-C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\Entidades\bin\Debug\Entidades.dll
-C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\Entidades\bin\Debug\Entidades.pdb
-C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\Entidades\obj\Debug\Entidades.dll
-C:\Users\mariano.j.mutti\Documents\Visual Studio 2015\Projects\miUserControl\Entidades\obj\Debug\Entidades.pdb
-C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\Entidades\bin\Debug\Entidades.dll
-C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\Entidades\bin\Debug\Entidades.pdb
-C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
-C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\Entidades\obj\Debug\Entidades.dll
-C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\miUserControl\Entidades\obj\Debug\Entidades.pdb

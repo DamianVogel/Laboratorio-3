@@ -34,10 +34,6 @@
             this.cmbMascota = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
-            // btnAceptar
-            // 
-          
-            // 
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
@@ -82,6 +78,7 @@
             this.Controls.Add(this.lblNombre);
             this.Name = "FrmMascota";
             this.Text = "FrmMascota";
+            this.Controls.SetChildIndex(this.lblEdad, 0);
             this.Controls.SetChildIndex(this.btnAceptar, 0);
             this.Controls.SetChildIndex(this.btnCancelar, 0);
             this.Controls.SetChildIndex(this.txtEdad, 0);
@@ -98,7 +95,7 @@
 
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblTipo;
-        protected System.Windows.Forms.TextBox txtName;
-        protected System.Windows.Forms.ComboBox cmbMascota;
+        protected internal System.Windows.Forms.TextBox txtName;
+        protected internal System.Windows.Forms.ComboBox cmbMascota;
     }
 }

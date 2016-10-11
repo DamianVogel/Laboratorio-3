@@ -14,9 +14,17 @@ namespace FrmPrincipal
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmPrincipal());
-        }
+
+            try
+            {
+                FrmPrincipal frmInicio = new FrmPrincipal();
+
+                Application.Run(frmInicio);
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Error" + e.Message, "error Desconocido");
+            }
+            }
     }
 }

@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PruebaBtn.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="PruebaTextBox.cs">
       <SubType>Component</SubType>
     </Compile>

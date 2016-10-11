@@ -3,3 +3,8 @@ C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaControles\bin\De
 C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaControles\obj\Debug\PruebaControles.csprojResolveAssemblyReference.cache
 C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaControles\obj\Debug\PruebaControles.dll
 C:\Personal\Damian\Personal\Laboratorio-3\PruebaControles\PruebaControles\obj\Debug\PruebaControles.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\PruebaControles\PruebaControles\bin\Debug\PruebaControles.dll
+C:\Users\FaiveL\Desktop\Laboratorio-3\PruebaControles\PruebaControles\bin\Debug\PruebaControles.pdb
+C:\Users\FaiveL\Desktop\Laboratorio-3\PruebaControles\PruebaControles\obj\Debug\PruebaControles.csprojResolveAssemblyReference.cache
+C:\Users\FaiveL\Desktop\Laboratorio-3\PruebaControles\PruebaControles\obj\Debug\PruebaControles.dll
+C:\Users\FaiveL\Desktop\Laboratorio-3\PruebaControles\PruebaControles\obj\Debug\PruebaControles.pdb

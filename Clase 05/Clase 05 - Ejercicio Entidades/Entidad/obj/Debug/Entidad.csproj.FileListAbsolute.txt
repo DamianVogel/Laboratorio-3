@@ -1,5 +1,0 @@
-D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Entidad\bin\Debug\Entidad.dll
-D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Entidad\bin\Debug\Entidad.pdb
-D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
-D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Entidad\obj\Debug\Entidad.dll
-D:\Vogel.Damian\Laboratorio 13-09-2016\Clase 05\Clase 05 - Ejercicio Entidades\Entidad\obj\Debug\Entidad.pdb
