@@ -66,6 +66,11 @@ namespace Ejercicio_GetParent_GetChild_Select
             this._negocio.Relations.Add(relacionProdProv);
             this._negocio.Relations.Add(relacionProvLoc);
         
+    
+        // foreach(DataRow Fila in this._negocio.Tables["Prod
+        
+        
+        
         }
     
     
