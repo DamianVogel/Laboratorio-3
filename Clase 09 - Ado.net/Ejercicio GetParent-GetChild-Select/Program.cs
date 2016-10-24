@@ -14,9 +14,17 @@ namespace Ejercicio_GetParent_GetChild_Select
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmPrincipal());
-        }
+            try
+            {
+                Application.EnableVisualStyles();
+                Application.SetCompatibleTextRenderingDefault(false);
+                Application.Run(new FrmPrincipal());
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Error", e.Message + "Error desconocido");
+            }
+            
+            }
     }
 }
