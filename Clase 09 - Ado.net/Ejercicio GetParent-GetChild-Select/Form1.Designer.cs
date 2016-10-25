@@ -68,6 +68,7 @@
             this.btnCargarProductos.TabIndex = 4;
             this.btnCargarProductos.Text = "Cargar Productos";
             this.btnCargarProductos.UseVisualStyleBackColor = true;
+            this.btnCargarProductos.Click += new System.EventHandler(this.btnCargarProductos_Click);
             // 
             // btnCargarProveedores
             // 
@@ -77,6 +78,7 @@
             this.btnCargarProveedores.TabIndex = 3;
             this.btnCargarProveedores.Text = "Cargar Proveedores";
             this.btnCargarProveedores.UseVisualStyleBackColor = true;
+            this.btnCargarProveedores.Click += new System.EventHandler(this.btnCargarProveedores_Click);
             // 
             // btnCargarLocalidades
             // 
@@ -86,6 +88,7 @@
             this.btnCargarLocalidades.TabIndex = 2;
             this.btnCargarLocalidades.Text = "Cargar Localidades";
             this.btnCargarLocalidades.UseVisualStyleBackColor = true;
+            this.btnCargarLocalidades.Click += new System.EventHandler(this.btnCargarLocalidades_Click);
             // 
             // btnCrearRelaciones
             // 

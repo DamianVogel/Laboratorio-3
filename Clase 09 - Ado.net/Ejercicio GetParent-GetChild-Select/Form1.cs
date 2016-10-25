@@ -44,7 +44,7 @@ namespace Ejercicio_GetParent_GetChild_Select
             this._proveedor.Columns.Add("IdLocalidad", typeof(Int32));
             this._proveedor.PrimaryKey = new DataColumn[] { this._proveedor.Columns["Id"] };
 
-            this._localidad.Columns.Add("Id", typeof(String));
+            this._localidad.Columns.Add("Id", typeof(Int32));
             this._localidad.Columns.Add("Localidad", typeof(String));
             this._localidad.PrimaryKey = new DataColumn[] { this._localidad.Columns["Id"] };
 
@@ -71,6 +71,97 @@ namespace Ejercicio_GetParent_GetChild_Select
         
         
         
+        }
+
+        private void btnCargarLocalidades_Click(object sender, EventArgs e)
+        {
+            DataRow fila1 = this._localidad.NewRow();
+
+            fila1["Id"] = 1;
+            fila1["Localidad"] = "Burzaco";
+
+            this._localidad.Rows.Add(fila1);
+
+            DataRow fila2 = this._localidad.NewRow();
+
+            fila2["Id"] = 2;
+            fila2["Localidad"] = "Adrogue";
+
+            this._localidad.Rows.Add(fila2);
+
+            DataRow fila3 = this._localidad.NewRow();
+
+            fila3["Id"] = 3;
+            fila3["Localidad"] = "Banfield";
+
+            this._localidad.Rows.Add(fila3);
+
+            MessageBox.Show("Localidades Creadas y cargadas al table de localidades");
+
+        }
+
+        private void btnCargarProveedores_Click(object sender, EventArgs e)
+        {
+
+            DataRow fila1 = this._proveedor.NewRow();
+
+            fila1["Id"] = 1;
+            fila1["Nombre"] = "Pepito";
+            fila1["IdLocalidad"] = 1;
+
+            this._proveedor.Rows.Add(fila1);
+
+            DataRow fila2 = this._proveedor.NewRow();
+
+            fila2["Id"] = 2;
+            fila2["Nombre"] = "Juancito";
+            fila2["IdLocalidad"] = 2;
+
+            this._proveedor.Rows.Add(fila2);
+
+            DataRow fila3 = this._proveedor.NewRow();
+
+            fila3["Id"] = 3;
+            fila3["Nombre"] = "Margarita";
+            fila3["IdLocalidad"] = 3;
+
+            this._proveedor.Rows.Add(fila3);
+
+            MessageBox.Show("Proveedores Creados y cargados al table de proveedores");
+
+
+        }
+
+        private void btnCargarProductos_Click(object sender, EventArgs e)
+        {
+
+            DataRow fila1 = this._productos.NewRow();
+
+            fila1["Id"] = 1;
+            fila1["Descripcion"] = "Alfajor";
+            fila1["IdProveedor"] = 2;
+
+            this._productos.Rows.Add(fila1);
+
+            DataRow fila2 = this._productos.NewRow();
+
+            fila2["Id"] = 2;
+            fila2["Descripcion"] = "Tortilla";
+            fila2["IdProveedor"] = 2;
+
+            this._productos.Rows.Add(fila2);
+
+            DataRow fila3 = this._productos.NewRow();
+
+            fila3["Id"] = 3;
+            fila3["Descripcion"] = "Jugo";
+            fila3["IdProveedor"] = 3;
+
+            this._productos.Rows.Add(fila3);
+
+            MessageBox.Show("Productos Creados y cargados al table de productos");
+
+
         }
     
     
