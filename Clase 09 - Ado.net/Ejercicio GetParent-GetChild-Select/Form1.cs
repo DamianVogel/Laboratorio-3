@@ -163,6 +163,19 @@ namespace Ejercicio_GetParent_GetChild_Select
 
 
         }
+
+        private void btnMosProdProveedor_Click(object sender, EventArgs e)
+        {
+
+            foreach (DataRow fila in this._productos.Rows)
+            {
+                this.lstMostrar.Items.Add(fila.ToString());
+            
+            }
+
+
+
+        }
     
     
     

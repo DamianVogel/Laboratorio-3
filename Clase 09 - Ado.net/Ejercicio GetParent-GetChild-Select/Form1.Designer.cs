@@ -185,6 +185,7 @@
             this.btnMosProdProveedor.TabIndex = 0;
             this.btnMosProdProveedor.Text = "1-Mostrar Productos con su  Proveedor";
             this.btnMosProdProveedor.UseVisualStyleBackColor = true;
+            this.btnMosProdProveedor.Click += new System.EventHandler(this.btnMosProdProveedor_Click);
             // 
             // FrmPrincipal
             // 
