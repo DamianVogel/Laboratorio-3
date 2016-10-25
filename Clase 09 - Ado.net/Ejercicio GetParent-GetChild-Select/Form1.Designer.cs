@@ -176,6 +176,7 @@
             this.btnMosProvLocalidad.TabIndex = 1;
             this.btnMosProvLocalidad.Text = "2-Mostrar Proveedor con su localidad";
             this.btnMosProvLocalidad.UseVisualStyleBackColor = true;
+            this.btnMosProvLocalidad.Click += new System.EventHandler(this.btnMosProvLocalidad_Click);
             // 
             // btnMosProdProveedor
             // 
