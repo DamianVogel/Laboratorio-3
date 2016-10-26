@@ -203,6 +203,25 @@ namespace Ejercicio_GetParent_GetChild_Select
             }
 
         }
+
+        private void btnMosProdProvLocalidad_Click(object sender, EventArgs e)
+        {
+            this.lstMostrar.Items.Clear();
+
+            foreach (DataRow fila in this._productos.Rows)
+            {
+
+
+                DataRow filaPadre = fila.GetParentRow("ProductosProveedor");
+
+                DataRow filaPadre2 = filaPadre.GetParentRow("ProveedorLocalidad");
+
+
+                this.lstMostrar.Items.Add(fila["Id"].ToString() + " - " + fila["Descripcion"].ToString() + " - " + filaPadre["Nombre"].ToString() + " - " + filaPadre2["Localidad"].ToString() );
+
+
+            }
+        }
     
     
     

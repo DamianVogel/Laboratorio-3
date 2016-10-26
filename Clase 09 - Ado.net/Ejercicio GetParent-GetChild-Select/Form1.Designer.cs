@@ -167,6 +167,7 @@
             this.btnMosProdProvLocalidad.TabIndex = 2;
             this.btnMosProdProvLocalidad.Text = "3-Mostrar Productos con Proveedor con su Localidad";
             this.btnMosProdProvLocalidad.UseVisualStyleBackColor = true;
+            this.btnMosProdProvLocalidad.Click += new System.EventHandler(this.btnMosProdProvLocalidad_Click);
             // 
             // btnMosProvLocalidad
             // 
