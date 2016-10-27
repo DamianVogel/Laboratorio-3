@@ -158,6 +158,7 @@
             this.btnMosProvLocalidadQuilmes.TabIndex = 3;
             this.btnMosProvLocalidadQuilmes.Text = "4-Mostrar Proveedores de la Localidad \"Quilmes\"";
             this.btnMosProvLocalidadQuilmes.UseVisualStyleBackColor = true;
+            this.btnMosProvLocalidadQuilmes.Click += new System.EventHandler(this.btnMosProvLocalidadQuilmes_Click);
             // 
             // btnMosProdProvLocalidad
             // 

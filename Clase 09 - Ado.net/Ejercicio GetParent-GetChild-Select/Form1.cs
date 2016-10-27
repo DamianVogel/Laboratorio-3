@@ -96,6 +96,18 @@ namespace Ejercicio_GetParent_GetChild_Select
 
             this._localidad.Rows.Add(fila3);
 
+
+            DataRow fila4 = this._localidad.NewRow();
+
+            fila4["Id"] = 4;
+            fila4["Localidad"] = "Quilmes";
+
+            this._localidad.Rows.Add(fila4);
+            
+            
+            
+            
+            
             MessageBox.Show("Localidades Creadas y cargadas al table de localidades");
 
         }
@@ -127,6 +139,17 @@ namespace Ejercicio_GetParent_GetChild_Select
 
             this._proveedor.Rows.Add(fila3);
 
+
+            DataRow fila4 = this._proveedor.NewRow();
+
+            fila4["Id"] = 4;
+            fila4["Nombre"] = "Vaccari";
+            fila4["IdLocalidad"] = 4;
+
+            this._proveedor.Rows.Add(fila4);
+          
+
+            
             MessageBox.Show("Proveedores Creados y cargados al table de proveedores");
 
 
@@ -159,6 +182,18 @@ namespace Ejercicio_GetParent_GetChild_Select
 
             this._productos.Rows.Add(fila3);
 
+            DataRow fila4 = this._productos.NewRow();
+
+            fila4["Id"] = 4;
+            fila4["Descripcion"] = "Pastel";
+            fila4["IdProveedor"] = 4;
+
+            this._productos.Rows.Add(fila4);
+            
+            
+   
+            
+            
             MessageBox.Show("Productos Creados y cargados al table de productos");
 
 
@@ -221,6 +256,25 @@ namespace Ejercicio_GetParent_GetChild_Select
 
 
             }
+        }
+
+        private void btnMosProvLocalidadQuilmes_Click(object sender, EventArgs e)
+        {
+
+            this.lstMostrar.Items.Clear();
+
+            DataRow [] lista = this._negocio.Tables["Localidad"].Select("Localidad = 'Quilmes'");
+
+            DataRow[] listahijas = lista[0].GetChildRows("ProveedorLocalidad");
+
+            foreach (DataRow row in listahijas)
+            {
+                this.lstMostrar.Items.Add(row["Nombre"].ToString());
+            
+            }
+
+
+
         }
     
     

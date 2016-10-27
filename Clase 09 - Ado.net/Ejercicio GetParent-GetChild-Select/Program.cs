@@ -17,12 +17,12 @@ namespace Ejercicio_GetParent_GetChild_Select
             try
             {
                 Application.EnableVisualStyles();
-                Application.SetCompatibleTextRenderingDefault(false);
+                //Application.SetCompatibleTextRenderingDefault(false);
                 Application.Run(new FrmPrincipal());
             }
             catch (Exception e)
             {
-                MessageBox.Show("Error", e.Message + "Error desconocido");
+                MessageBox.Show(e.Message + "Error desconocido","Error");
             }
             
             }
