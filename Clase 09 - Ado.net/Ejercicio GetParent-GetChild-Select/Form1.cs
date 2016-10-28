@@ -276,6 +276,47 @@ namespace Ejercicio_GetParent_GetChild_Select
 
 
         }
+
+        private void btnMosProvLocalidadFiltro_Click(object sender, EventArgs e)
+        {
+            this.lstMostrar.Items.Clear();
+
+            DataRow[] lista = this._negocio.Tables["Localidad"].Select("Localidad");
+
+            foreach (DataRow row in lista)
+            {
+                if (row["Localidad"] == this.txtFiltro.Text)
+                {
+                    DataRow[] listahijas = lista[0].GetChildRows("ProveedorLocalidad");
+
+                    foreach (DataRow row2 in listahijas)
+                    {
+                        this.lstMostrar.Items.Add(row2["Nombre"].ToString());
+
+                    }
+
+
+                }
+            
+            }
+            
+            
+            
+            
+            
+            //DataRow[] listahijas = lista[0].GetChildRows("ProveedorLocalidad");
+
+            //foreach (DataRow row in listahijas)
+            //{
+            //    this.lstMostrar.Items.Add(row["Nombre"].ToString());
+
+            //}
+
+
+
+
+
+        }
     
     
     

@@ -141,6 +141,7 @@
             this.btnMosProvLocalidadFiltro.TabIndex = 5;
             this.btnMosProvLocalidadFiltro.Text = "Mostrar Proveedores de la localidad del Txtfiltro";
             this.btnMosProvLocalidadFiltro.UseVisualStyleBackColor = true;
+            this.btnMosProvLocalidadFiltro.Click += new System.EventHandler(this.btnMosProvLocalidadFiltro_Click);
             // 
             // lstMostrar
             // 
