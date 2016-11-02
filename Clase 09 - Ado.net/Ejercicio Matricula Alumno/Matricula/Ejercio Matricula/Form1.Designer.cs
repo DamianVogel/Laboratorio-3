@@ -276,7 +276,8 @@
             this.Controls.Add(this.grpOpciones);
             this.Controls.Add(this.grpDatos);
             this.Name = "FrmPrincipal";
-            this.Text = "Form1";
+            this.Text = "Ingreso de Matricula";
+            this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.grpDatos.ResumeLayout(false);
             this.grpDatos.PerformLayout();
             this.grpOpciones.ResumeLayout(false);
