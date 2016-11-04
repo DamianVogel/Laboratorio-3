@@ -281,42 +281,42 @@ namespace Ejercicio_GetParent_GetChild_Select
         {
             this.lstMostrar.Items.Clear();
 
-            DataRow[] lista = this._negocio.Tables["Localidad"].Select();
+            DataRow[] lista = this._negocio.Tables["Localidad"].Select("Localidad ='"+this.txtFiltro.Text+"'");
 
-            for(int i=0; i < lista.Length;i++)
+            DataRow[] listahijas = lista[0].GetChildRows("ProveedorLocalidad");
+
+            foreach (DataRow row in listahijas)
             {
+                this.lstMostrar.Items.Add(row["Nombre"].ToString());
+
+            }
+
+
+            //for(int i=0; i < lista.Length;i++)
+            //{
             
-                if (lista[i]["Localidad"].ToString() == this.txtFiltro.Text)
-                {
+            //    if (lista[i]["Localidad"].ToString() == this.txtFiltro.Text)
+            //    {
                    
                     
                     
-                    DataRow[] listahijas = lista[i].GetChildRows("ProveedorLocalidad");
+            //        DataRow[] listahijas = lista[i].GetChildRows("ProveedorLocalidad");
 
-                    foreach (DataRow row2 in listahijas)
-                    {
-                        this.lstMostrar.Items.Add(row2["Nombre"].ToString());
+            //        foreach (DataRow row2 in listahijas)
+            //        {
+            //            this.lstMostrar.Items.Add(row2["Nombre"].ToString());
 
-                    }
+            //        }
 
 
-                }
+            //    }
             
-            }
-            
-            
-            
-            
-            
-            //DataRow[] listahijas = lista[0].GetChildRows("ProveedorLocalidad");
-
-            //foreach (DataRow row in listahijas)
-            //{
-            //    this.lstMostrar.Items.Add(row["Nombre"].ToString());
-
             //}
-
-
+            
+            
+            
+            
+         
 
 
 
