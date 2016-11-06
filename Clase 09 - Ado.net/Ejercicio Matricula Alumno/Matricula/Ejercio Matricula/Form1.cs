@@ -10,16 +10,20 @@ using System.Windows.Forms;
 
 namespace Ejercio_Matricula
 {
+    public delegate DataSet DataSetDelegado (DataSet dataset);
+
+
     public partial class FrmPrincipal : Form
     {
 
-        DataSet dsInscripcion;
-        DataTable dtMatricula;
-        DataTable dtCurso;
-        DataTable dtLocalidad;
+        public DataSet dsInscripcion;
+        public DataTable dtMatricula;
+        public DataTable dtCurso;
+        public DataTable dtLocalidad;
+
         
 
-
+        public DataSetDelegado miDelegado;
 
         
         public FrmPrincipal()
@@ -35,7 +39,7 @@ namespace Ejercio_Matricula
             this.dtCurso = new DataTable("Curso");
             this.dtLocalidad = new DataTable("Localidad");
 
-
+            #region Datatables
             /*----DATATABLE MATRICULA----*/
 
             this.dtMatricula.Columns.Add("IdCurso",typeof(Int32));
@@ -43,13 +47,15 @@ namespace Ejercio_Matricula
             this.dtMatricula.Columns.Add("Apellido", typeof(String));
             this.dtMatricula.Columns.Add("Sexo", typeof(String));
             this.dtMatricula.Columns.Add("Direccion", typeof(String));
-            this.dtMatricula.Columns.Add("Localidad", typeof(Int32));
+            this.dtMatricula.Columns.Add("IdLocalidad", typeof(Int32));
 
 
             /*----DATATABLE CURSOS----*/
 
             this.dtCurso.Columns.Add("codCurso", typeof(Int32));
             this.dtCurso.Columns.Add("Descripcion", typeof(String));
+
+            this.dtCurso.PrimaryKey = new DataColumn[] {this.dtCurso.Columns["codCurso"]};
 
             DataRow primerCurso = this.dtCurso.NewRow();
 
@@ -100,11 +106,13 @@ namespace Ejercio_Matricula
 
             this.dtCurso.Rows.Add(septimoCurso);
 
-
+            
             /*----DATATABLE LOCALIDAD----*/
 
             this.dtLocalidad.Columns.Add("codLocalidad", typeof(Int32));
             this.dtLocalidad.Columns.Add("Descripcion", typeof(String));
+
+            this.dtLocalidad.PrimaryKey = new DataColumn[] { this.dtLocalidad.Columns["codLocalidad"] };
 
             DataRow primeraLocalidad = this.dtLocalidad.NewRow();
 
@@ -144,42 +152,131 @@ namespace Ejercio_Matricula
 
             this.dtLocalidad.Rows.Add(quintaLocalidad);
 
+            #endregion
+
+            #region Relations
+
+            
+
+            #endregion
+
+            /* CARGO LOS LIST BOXs */
+
+            foreach (DataRow row in this.dtCurso.Rows)
+            {
+                this.lstCursos.Items.Add(row["Descripcion"].ToString());
+            }
+
+            foreach (DataRow row in this.dtLocalidad.Rows)
+            {
+                this.lstLocalidad.Items.Add(row["Descripcion"].ToString());
+            }
+
+            
+
+            
+            this.lstCursos.SelectedIndexChanged += this.CambiarCurso;
+            this.lstLocalidad.SelectedIndexChanged += this.CambiarLocalidad;
+            this.btnLimpiar.Click += this.LimpiarTabla;
+            this.FormClosing += this.Salir;
+
+            DataRelation matriculaCurso = new DataRelation("MatriculaCurso", this.dtCurso.Columns["codCurso"], this.dtMatricula.Columns["Curso"]);
+            DataRelation matriculaLocalidad = new DataRelation("MatriculaLocalidad", this.dtCurso.Columns["codLocalidad"], this.dtMatricula.Columns["Localidad"]);
+
+            this.dsInscripcion.Relations.Add(matriculaCurso);
+            this.dsInscripcion.Relations.Add(matriculaLocalidad);
+            
+        
+        }
 
 
+        private void CambiarCurso(object sender, EventArgs e)
+        {
+            this.txtCurso.Text = (String)this.lstCursos.SelectedItem;
+        }
 
+        private void CambiarLocalidad(object sender, EventArgs e)
+        {
+            this.txtLocalidad.Text = (String)this.lstLocalidad.SelectedItem;
+        }
 
+        private void LimpiarTabla(object sender, EventArgs e)
+        {
+            foreach (Control control in this.grpDatos.Controls)
+            {
+                if (control is TextBox)
+                {
+                    control.Text = "";
+                }
+            
+            }
 
+            this.rdbFemenino.Checked = false;
+            this.rdbMasculino.Checked = false;
+        
+        }
 
+        private void Salir(object sender, FormClosingEventArgs e)
+        {
+           DialogResult respuesta = MessageBox.Show("Realmente desea salir???", "Exit", MessageBoxButtons.YesNo);
 
+           if (respuesta == System.Windows.Forms.DialogResult.No)
+           {
+               e.Cancel = true;
+           }
+           else
+               e.Cancel = false;
+         
 
+        }
 
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
 
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            DataRow rowInscripcion = this.dtMatricula.NewRow();
 
+            rowInscripcion["IdCurso"] = this.lstCursos.SelectedIndex;
+            rowInscripcion["Fecha"] = this.txtFecha.Text;
+            rowInscripcion["Apellido"] = this.txtAlumno.Text;
 
+            if (this.rdbFemenino.Checked == true)
+            {
+                rowInscripcion["Sexo"] = this.rdbFemenino.ToString();
+            }
+            else if (this.rdbMasculino.Checked == true)
+            {
+                rowInscripcion["Sexo"] = this.rdbFemenino.ToString();
+            }
+            else
+                rowInscripcion["Sexo"] = "Indefinido";
 
+            rowInscripcion["IdLocalidad"] = this.lstLocalidad.SelectedIndex;
 
+            this.dtMatricula.Rows.Add(rowInscripcion);
 
+            this.LimpiarTabla(sender, e);
 
+        }
 
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+            Mostrar frmMostrar = new Mostrar();
 
-
-
-
-
-
-
-
-
-
-
-
+            frmMostrar.Show(this);
 
 
 
 
         }
-   
-    
-    
+
+        
+        
+
+
+
     }
 }

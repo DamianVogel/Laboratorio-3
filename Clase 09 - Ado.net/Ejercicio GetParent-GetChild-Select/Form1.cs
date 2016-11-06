@@ -37,7 +37,7 @@ namespace Ejercicio_GetParent_GetChild_Select
             this._productos.Columns.Add("Descripcion", typeof(String));
             this._productos.Columns.Add("IdProveedor", typeof(Int32));
             this._productos.PrimaryKey = new DataColumn[] {this._productos.Columns["Id"]};
-
+            
 
             this._proveedor.Columns.Add("Id", typeof(Int32));
             this._proveedor.Columns.Add("Nombre", typeof(String));
