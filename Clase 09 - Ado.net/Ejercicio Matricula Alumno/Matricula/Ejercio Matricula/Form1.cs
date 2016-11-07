@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Ejercio_Matricula
 {
-    public delegate DataSet DataSetDelegado (DataSet dataset);
+    public delegate void DataSetDelegado (DataSet dataset);
 
 
     public partial class FrmPrincipal : Form
@@ -172,7 +172,9 @@ namespace Ejercio_Matricula
                 this.lstLocalidad.Items.Add(row["Descripcion"].ToString());
             }
 
-            
+            this.dsInscripcion.Tables.Add(dtCurso);
+            this.dsInscripcion.Tables.Add(dtLocalidad);
+            this.dsInscripcion.Tables.Add(dtMatricula);
 
             
             this.lstCursos.SelectedIndexChanged += this.CambiarCurso;
@@ -180,13 +182,22 @@ namespace Ejercio_Matricula
             this.btnLimpiar.Click += this.LimpiarTabla;
             this.FormClosing += this.Salir;
 
+           
+            
             DataRelation matriculaCurso = new DataRelation("MatriculaCurso", this.dtCurso.Columns["codCurso"], this.dtMatricula.Columns["Curso"]);
             DataRelation matriculaLocalidad = new DataRelation("MatriculaLocalidad", this.dtCurso.Columns["codLocalidad"], this.dtMatricula.Columns["Localidad"]);
 
+
+
             this.dsInscripcion.Relations.Add(matriculaCurso);
             this.dsInscripcion.Relations.Add(matriculaLocalidad);
-            
+
+           
+
+            //this.miDelegado(dsInscripcion);
         
+
+
         }
 
 
@@ -265,8 +276,11 @@ namespace Ejercio_Matricula
         private void btnMostrar_Click(object sender, EventArgs e)
         {
             Mostrar frmMostrar = new Mostrar();
-
             frmMostrar.Show(this);
+           
+            this.miDelegado(dsInscripcion);
+
+            
 
 
 

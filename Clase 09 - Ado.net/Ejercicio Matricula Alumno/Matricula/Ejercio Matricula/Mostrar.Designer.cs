@@ -99,6 +99,7 @@
             this.Controls.Add(this.lstMostrar);
             this.Name = "Mostrar";
             this.Text = "Mostrar";
+            this.Load += new System.EventHandler(this.Mostrar_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

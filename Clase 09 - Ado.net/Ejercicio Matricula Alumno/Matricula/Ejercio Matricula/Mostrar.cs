@@ -16,32 +16,29 @@ namespace Ejercio_Matricula
         {
             InitializeComponent();
 
-            this.cmbCurso.SelectedIndexChanged += this.LlenarListBox;
-
-            this.Load += this.LlenarListBox;
 
         }
 
-        private void LlenarListBox(object sender, EventArgs e)
+        private void LlenarListBox(DataSet dataSet)
         {
-
-            FrmPrincipal dueño = (FrmPrincipal)this.Owner;
-
-            DataSet envio = dueño.miDelegado(dueño.dsInscripcion);
-
-            foreach (DataRow row in envio.Tables["Cursos"].Rows)
+           
+            
+           
+            foreach(DataRow row in dataSet.Tables["Curso"].Rows)
             {
                 this.lstMostrar.Items.Add(row["Descripcion"].ToString());
             
             }
-
-
-
-
-
-
-
+           
         
+        }
+
+        private void Mostrar_Load(object sender, EventArgs e)
+        {
+            FrmPrincipal dueño = (FrmPrincipal)this.Owner;
+            dueño.miDelegado = LlenarListBox;
+
+
         }
     
     
