@@ -184,13 +184,13 @@ namespace Ejercio_Matricula
 
            
             
-            DataRelation matriculaCurso = new DataRelation("MatriculaCurso", this.dtCurso.Columns["codCurso"], this.dtMatricula.Columns["Curso"]);
-            DataRelation matriculaLocalidad = new DataRelation("MatriculaLocalidad", this.dtCurso.Columns["codLocalidad"], this.dtMatricula.Columns["Localidad"]);
+            ///DataRelation matriculaCurso = new DataRelation("MatriculaCurso", this.dtCurso.Columns["codCurso"], this.dtMatricula.Columns["Curso"]);
+            ///DataRelation matriculaLocalidad = new DataRelation("MatriculaLocalidad", this.dtCurso.Columns["codLocalidad"], this.dtMatricula.Columns["Localidad"]);
 
 
 
-            this.dsInscripcion.Relations.Add(matriculaCurso);
-            this.dsInscripcion.Relations.Add(matriculaLocalidad);
+           // this.dsInscripcion.Relations.Add(matriculaCurso);
+            //this.dsInscripcion.Relations.Add(matriculaLocalidad);
 
            
 

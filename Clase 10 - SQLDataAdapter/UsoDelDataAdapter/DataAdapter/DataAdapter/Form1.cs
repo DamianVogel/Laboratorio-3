@@ -66,6 +66,8 @@ namespace DataAdapter
 
             this.MostrarDatos();
 
+
+            this.FormClosing += this.Salir;
         }
 
         private void TraerDatos()
@@ -173,8 +175,6 @@ namespace DataAdapter
 
                 MessageBox.Show("Lo sincronizo jamon");
 
-
-
             }
             catch (Exception ex)
             {
@@ -182,5 +182,93 @@ namespace DataAdapter
                 
             }
         }
+
+        private void Salir(object sender, FormClosingEventArgs e)
+        {
+            DialogResult respuesta = MessageBox.Show("Realmente desea salir????", "Salir", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
+
+            if (respuesta == System.Windows.Forms.DialogResult.OK)
+            {
+                e.Cancel = false;
+            }
+            else
+                e.Cancel = true;
+        
+        }
+
+        private void btnCerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+
+
+            this.MostrarEstadoFilas(this._dataSet);
+
+        }
+
+        private void MostrarEstadoFilas(DataSet dataset)
+        {
+            FrmEstado frmEstado = new FrmEstado();
+
+            frmEstado.Text = "Estado de las filas";
+
+            int contador = 0;
+
+            foreach (DataRow row in dataset.Tables[0].Rows)
+            {
+                frmEstado.lstMostrar.Items.Add("Fila: " + contador + "Estado: " + row.RowState.ToString());
+                contador = contador + 1;
+                
+            
+            }
+
+            frmEstado.ShowDialog();
+            
+        
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            this._dataSet.Tables[0].Rows[this.lstDatos.SelectedIndex].Delete();
+
+
+            this.MostrarDatos();
+            //this.btnContar_Click(sender, e);
+        }
+
+        private void btnContar_Click(object sender, EventArgs e)
+        {
+            int contador = 0;
+            SqlCommand comando = new SqlCommand("Select * from Productos", this._Connection);
+            try
+            {
+                this._Connection.Open();
+                SqlDataReader lector = comando.ExecuteReader();
+                DataTable nuevaTabla = new DataTable("nueva");
+                
+                nuevaTabla.Load(lector);
+
+                MessageBox.Show(nuevaTabla.Rows[0][0].ToString());
+                                    
+                while (lector.Read())
+                {                                   
+                    contador = contador + 1;
+                }
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                this._Connection.Close();
+            }
+        }
+    
+    
+    
     }
 }
