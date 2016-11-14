@@ -206,6 +206,22 @@ namespace Modelo.SegundoParcial.LabIII
         
         }
 
+        private void bajaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmBaja baja = new frmBaja();
+
+            if (baja.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                //foreach(
+                
+                frmAlumno frmBajaAlumno = new frmAlumno();
+
+                
+            
+            }
+
+        }
+
 
 
 
