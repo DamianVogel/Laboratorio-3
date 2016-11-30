@@ -24,8 +24,11 @@ namespace Practica_Recuperatorio_Segundo_Parcuial
             InitializeComponent();
 
             this._dataSetAlumnos_Cursos= new DataSet("AlumnosCursos");
-        
+            this._dataAdapterAlumnos = new SqlDataAdapter();
         }
+
+
+        #region Metodos
 
         private DataTable CrearDataTableCursos()
         {
@@ -62,9 +65,39 @@ namespace Practica_Recuperatorio_Segundo_Parcuial
         
         }
 
-        private void FrmPrincipal_Load(object sender, EventArgs e)
+        private void ConfigurarDataAdapter()
         {
-            if(!File.Exists(AppDomain.CurrentDomain.BaseDirectory + "\\CursosDatos.XML") && !File.Exists(AppDomain.CurrentDomain.BaseDirectory + "\\CursosEsquema.XML"))
+            SqlConnection conexion = new SqlConnection(Properties.Settings.Default.cnn);
+
+            SqlCommand select = new SqlCommand("Select _Apellido as Apellido, _Legajo as Legajo, _Curso as Curso from Alumnos", conexion);
+            SqlCommand insert = new SqlCommand("Insert into Alumnos (_Apellido,_Legajo,_Curso) VALUES (@Apellido,@Legajo,@Curso)", conexion);
+            SqlCommand update = new SqlCommand("Update Alumnos Set _Apellido=@Apellido, _Legajo=@Legajo, _Curso=@Curso", conexion);
+            SqlCommand delete = new SqlCommand("Delete from Alumnos where _Legajo = @Legajo", conexion);
+
+            this._dataAdapterAlumnos.SelectCommand = select;
+            this._dataAdapterAlumnos.InsertCommand = insert;
+            this._dataAdapterAlumnos.UpdateCommand = update;
+            this._dataAdapterAlumnos.DeleteCommand = delete;
+
+            this._dataAdapterAlumnos.InsertCommand.Parameters.Add("@Apellido", SqlDbType.VarChar, 50, "Apellido");
+            this._dataAdapterAlumnos.InsertCommand.Parameters.Add("@Legajo", SqlDbType.Int, 50, "Legajo");
+            this._dataAdapterAlumnos.InsertCommand.Parameters.Add("@Curso", SqlDbType.Int, 50, "Curso");
+
+            this._dataAdapterAlumnos.UpdateCommand.Parameters.Add("@Apellido", SqlDbType.VarChar, 50, "Apellido");
+            this._dataAdapterAlumnos.UpdateCommand.Parameters.Add("@Legajo", SqlDbType.Int, 50, "Legajo");
+            this._dataAdapterAlumnos.UpdateCommand.Parameters.Add("@Curso", SqlDbType.Int, 50, "Curso");
+
+            this._dataAdapterAlumnos.DeleteCommand.Parameters.Add("@Legajo", SqlDbType.Int, 50, "Legajo");
+      
+        
+        }
+
+        private void TraerDatos()
+        {
+
+            #region Llenar el table de Cursos
+
+            if (!File.Exists(AppDomain.CurrentDomain.BaseDirectory + "\\CursosDatos.XML") && !File.Exists(AppDomain.CurrentDomain.BaseDirectory + "\\CursosEsquema.XML"))
             {
                 this._dataSetAlumnos_Cursos.Tables.Add(this.CrearDataTableCursos());
 
@@ -73,17 +106,56 @@ namespace Practica_Recuperatorio_Segundo_Parcuial
             }
             else
             {
-                   DataTable dtCursos = new DataTable("dtCursos");
+                DataTable dtCursos = new DataTable("dtCursos");
 
-                    dtCursos.ReadXmlSchema(AppDomain.CurrentDomain.BaseDirectory +"\\CursosEsquema.XML");
-                    dtCursos.ReadXml(AppDomain.CurrentDomain.BaseDirectory + "\\CursosDatos.XML");
+                dtCursos.ReadXmlSchema(AppDomain.CurrentDomain.BaseDirectory + "\\CursosEsquema.XML");
+                dtCursos.ReadXml(AppDomain.CurrentDomain.BaseDirectory + "\\CursosDatos.XML");
 
-                    this._dataSetAlumnos_Cursos.Tables.Add(dtCursos);
-
-                    
-
+                this._dataSetAlumnos_Cursos.Tables.Add(dtCursos);
 
             }
+
+            #endregion
+
+
+
+            #region Llenar el table de alumnos desde la base de datos
+            SqlConnection conexion = new SqlConnection(Properties.Settings.Default.cnn);
+
+            SqlCommand select = new SqlCommand("Select _Apellido as Apellido, _Legajo as Legajo, _Curso as Curso from Alumnos", conexion);
+
+            conexion.Open();
+
+            SqlDataReader reader = select.ExecuteReader();
+
+            
+            DataTable dtAlumnos = new DataTable();
+
+            dtAlumnos.Load(reader);
+            conexion.Close();
+            this._dataSetAlumnos_Cursos.Tables.Add(dtAlumnos);
+            #endregion
+
+
+            this.dataGridView1.DataSource = this._dataSetAlumnos_Cursos.Tables[1];
+
+        }
+
+
+
+
+        #endregion
+
+
+
+        private void FrmPrincipal_Load(object sender, EventArgs e)
+        {
+            ConfigurarDataAdapter();
+
+            TraerDatos();
+
+
+
 
         }
     

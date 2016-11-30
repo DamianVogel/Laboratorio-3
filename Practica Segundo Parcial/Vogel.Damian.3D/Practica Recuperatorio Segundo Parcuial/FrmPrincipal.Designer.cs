@@ -30,16 +30,18 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.alumnoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.guardarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.altaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bajaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.modificacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.alumnosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cursosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.alumnosConElNombreDelCursoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mostrarAlumnosdeASPNETToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.guardarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -64,6 +66,24 @@
             this.alumnoToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
             this.alumnoToolStripMenuItem.Text = "Alumno";
             // 
+            // altaToolStripMenuItem
+            // 
+            this.altaToolStripMenuItem.Name = "altaToolStripMenuItem";
+            this.altaToolStripMenuItem.Size = new System.Drawing.Size(144, 22);
+            this.altaToolStripMenuItem.Text = "Alta";
+            // 
+            // bajaToolStripMenuItem
+            // 
+            this.bajaToolStripMenuItem.Name = "bajaToolStripMenuItem";
+            this.bajaToolStripMenuItem.Size = new System.Drawing.Size(144, 22);
+            this.bajaToolStripMenuItem.Text = "Baja";
+            // 
+            // modificacionToolStripMenuItem
+            // 
+            this.modificacionToolStripMenuItem.Name = "modificacionToolStripMenuItem";
+            this.modificacionToolStripMenuItem.Size = new System.Drawing.Size(144, 22);
+            this.modificacionToolStripMenuItem.Text = "Modificacion";
+            // 
             // mostrarToolStripMenuItem
             // 
             this.mostrarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -74,30 +94,6 @@
             this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
             this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
             this.mostrarToolStripMenuItem.Text = "Mostrar";
-            // 
-            // guardarToolStripMenuItem
-            // 
-            this.guardarToolStripMenuItem.Name = "guardarToolStripMenuItem";
-            this.guardarToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
-            this.guardarToolStripMenuItem.Text = "Guardar";
-            // 
-            // altaToolStripMenuItem
-            // 
-            this.altaToolStripMenuItem.Name = "altaToolStripMenuItem";
-            this.altaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.altaToolStripMenuItem.Text = "Alta";
-            // 
-            // bajaToolStripMenuItem
-            // 
-            this.bajaToolStripMenuItem.Name = "bajaToolStripMenuItem";
-            this.bajaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.bajaToolStripMenuItem.Text = "Baja";
-            // 
-            // modificacionToolStripMenuItem
-            // 
-            this.modificacionToolStripMenuItem.Name = "modificacionToolStripMenuItem";
-            this.modificacionToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.modificacionToolStripMenuItem.Text = "Modificacion";
             // 
             // alumnosToolStripMenuItem
             // 
@@ -123,11 +119,26 @@
             this.mostrarAlumnosdeASPNETToolStripMenuItem.Size = new System.Drawing.Size(245, 22);
             this.mostrarAlumnosdeASPNETToolStripMenuItem.Text = "MostrarAlumnosdeASPNET";
             // 
+            // guardarToolStripMenuItem
+            // 
+            this.guardarToolStripMenuItem.Name = "guardarToolStripMenuItem";
+            this.guardarToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
+            this.guardarToolStripMenuItem.Text = "Guardar";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(53, 100);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(451, 355);
+            this.dataGridView1.TabIndex = 1;
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(592, 544);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FrmPrincipal";
@@ -135,6 +146,7 @@
             this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -153,6 +165,7 @@
         private System.Windows.Forms.ToolStripMenuItem alumnosConElNombreDelCursoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem mostrarAlumnosdeASPNETToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem guardarToolStripMenuItem;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
 
