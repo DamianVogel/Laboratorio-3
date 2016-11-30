@@ -132,7 +132,9 @@ namespace Practica_Recuperatorio_Segundo_Parcuial
             DataTable dtAlumnos = new DataTable();
 
             dtAlumnos.Load(reader);
+            
             conexion.Close();
+            
             this._dataSetAlumnos_Cursos.Tables.Add(dtAlumnos);
             #endregion
 
