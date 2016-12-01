@@ -19,3 +19,6 @@ C:\Users\dvogel\Desktop\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\
 C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02 - Herencia\Clase 02 - Herencia\bin\Debug\Clase 02 - Herencia.exe.config
 C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase 02 - Herencia.exe
 C:\Users\FaiveL\Desktop\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase 02 - Herencia.pdb
+D:\UTN\Tercer Cuatrimestre\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02 - Herencia\Clase 02 - Herencia\bin\Debug\Clase 02 - Herencia.exe.config
+D:\UTN\Tercer Cuatrimestre\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase 02 - Herencia.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02 - Herencia\Clase 02 - Herencia\obj\Debug\Clase 02 - Herencia.pdb

@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using Entidades;
 using System.Data.SqlClient;
 using System.IO;
+using Microsoft.VisualBasic;
 
 namespace Practica_Recuperatorio_Segundo_Parcuial
 {
@@ -144,6 +145,17 @@ namespace Practica_Recuperatorio_Segundo_Parcuial
         }
 
 
+        private void EstablecerRelacion()
+        {
+            DataRelation relacion = new DataRelation("AlumnoCurso", this._dataSetAlumnos_Cursos.Tables["dtCursos"].Columns["Codigo"],
+                                                                    this._dataSetAlumnos_Cursos.Tables[1].Columns["Curso"]);
+
+            this._dataSetAlumnos_Cursos.Relations.Add(relacion);
+        
+        }
+
+
+
 
 
         #endregion
@@ -156,9 +168,75 @@ namespace Practica_Recuperatorio_Segundo_Parcuial
 
             TraerDatos();
 
+            EstablecerRelacion();
+            
+        }
+
+        private void altaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmAlumno frmAltaAlumno = new FrmAlumno();
+
+            foreach (DataRow row in this._dataSetAlumnos_Cursos.Tables[0].Rows)
+            {
+                frmAltaAlumno.cmbCurso.Items.Add(row[2].ToString());
+            }
+
+            if (frmAltaAlumno.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                DataRow nuevoRow = this._dataSetAlumnos_Cursos.Tables[1].NewRow();
+
+                nuevoRow["Apellido"] = frmAltaAlumno.Alumno.Apellido;
+                nuevoRow["Legajo"] = frmAltaAlumno.Alumno.Legajo;
+                nuevoRow["Curso"] = (frmAltaAlumno.Alumno.Curso * 5) + 1000;
+
+                this._dataSetAlumnos_Cursos.Tables[1].Rows.Add(nuevoRow);     
+            
+            }
+
+        }
+
+        private void bajaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string legajo = Interaction.InputBox("Legajo a buscar", "baja", "*****");
+            int flag = 0;
+
+
+            foreach (DataRow row in this._dataSetAlumnos_Cursos.Tables[1].Rows)
+            {
+                if (row["Legajo"].ToString() == legajo)
+                { 
+                    DataRow rowPadre = row.GetParentRow("AlumnoCurso");
+                 
+                    Alumno alumnoBaja = new Alumno(row["Apellido"].ToString(), int.Parse(row["Legajo"].ToString()), int.Parse(row["Curso"].ToString()));
 
 
 
+                    FrmAlumno frmBajaAlumno = new FrmAlumno(alumnoBaja);
+
+                  
+                    
+                   //frmBajaAlumno.cmbCurso.Items.Add("Hola");
+                   frmBajaAlumno.cmbCurso.Items.Add(rowPadre["Nombre"].ToString());
+                   frmBajaAlumno.cmbCurso.SelectedIndex = 0;
+
+                    if (frmBajaAlumno.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+                    {
+                        row.Delete();
+                        flag = 1;
+                        break;
+                        
+                    }
+                
+                
+                }
+            }
+
+            if (flag == 0)
+            {
+                MessageBox.Show("No se encontro el legajo");
+            
+            }
+        
         }
     
     

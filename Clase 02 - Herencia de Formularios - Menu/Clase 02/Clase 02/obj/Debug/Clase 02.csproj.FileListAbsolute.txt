@@ -8,3 +8,6 @@ D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase 02.c
 D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase 02.exe
 D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase 02.pdb
 D:\Vogel.Damian.3D\Laboratorio 3\Clase 02\Clase 02\Clase 02\obj\Debug\Clase_02.formPrincipal.resources
+D:\UTN\Tercer Cuatrimestre\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02\Clase 02\bin\Debug\Clase 02.exe.config
+D:\UTN\Tercer Cuatrimestre\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02\Clase 02\obj\Debug\Clase 02.exe
+D:\UTN\Tercer Cuatrimestre\Laboratorio-3\Clase 02 - Herencia de Formularios - Menu\Clase 02\Clase 02\obj\Debug\Clase 02.pdb
