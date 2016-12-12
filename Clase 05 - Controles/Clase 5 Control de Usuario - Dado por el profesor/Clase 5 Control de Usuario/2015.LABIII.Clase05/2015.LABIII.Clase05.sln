@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlDeUsuario.01", "ControlDeUsuario.01\ControlDeUsuario.01.csproj", "{05D58C0C-0CC4-4345-9441-C72EEF0FBDF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisControles", "MisControles\MisControles.csproj", "{5C056AD3-9146-472B-928B-65591636AC80}"

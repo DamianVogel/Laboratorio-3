@@ -30,6 +30,7 @@
         {
             this.textBoxColores1 = new MisControles.TextBoxColores();
             this.btnCrear = new System.Windows.Forms.Button();
+            this.pruebaFinal1 = new MisControles.PruebaFinal();
             this.SuspendLayout();
             // 
             // textBoxColores1
@@ -49,11 +50,20 @@
             this.btnCrear.Text = "&Crear Control";
             this.btnCrear.UseVisualStyleBackColor = true;
             // 
+            // pruebaFinal1
+            // 
+            this.pruebaFinal1.BackColor = System.Drawing.Color.Blue;
+            this.pruebaFinal1.Location = new System.Drawing.Point(12, 113);
+            this.pruebaFinal1.Name = "pruebaFinal1";
+            this.pruebaFinal1.Size = new System.Drawing.Size(100, 20);
+            this.pruebaFinal1.TabIndex = 4;
+            // 
             // frmHerenciaDeControles
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(256, 222);
+            this.Controls.Add(this.pruebaFinal1);
             this.Controls.Add(this.btnCrear);
             this.Controls.Add(this.textBoxColores1);
             this.Name = "frmHerenciaDeControles";
@@ -67,6 +77,7 @@
 
         private MisControles.TextBoxColores textBoxColores1;
         internal System.Windows.Forms.Button btnCrear;
+        private MisControles.PruebaFinal pruebaFinal1;
     }
 }
 

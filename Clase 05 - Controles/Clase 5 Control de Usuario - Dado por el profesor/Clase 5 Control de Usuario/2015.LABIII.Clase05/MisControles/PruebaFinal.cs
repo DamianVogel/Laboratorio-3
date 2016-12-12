@@ -2,31 +2,29 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Windows.Forms;
 
 namespace MisControles
 {
-    public class TextBoxElegirLetra:System.Windows.Forms.TextBox
+    public class PruebaFinal: System.Windows.Forms.TextBox
     {
-        public Char QueLetra { get; set; }
-
-        public TextBoxElegirLetra()
+        public PruebaFinal()
         {
-            this.QueLetra = 'B';
+            this.BackColor = System.Drawing.Color.Blue;        
         }
 
         protected override void OnKeyPress(System.Windows.Forms.KeyPressEventArgs e)
         {
-            if (e.KeyChar != this.QueLetra)
+            if (e.KeyChar == (char)System.Windows.Forms.Keys.A)
             {
                 e.Handled = true;
+                MessageBox.Show("Es la letra");
             }
-
+            
+            
             base.OnKeyPress(e);
-       
         }
 
-
-        
 
     }
 }

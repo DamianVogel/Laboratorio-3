@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PruebaFinal.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="TextBoxColores.cs">
       <SubType>Component</SubType>
     </Compile>

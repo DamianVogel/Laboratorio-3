@@ -18,8 +18,10 @@ namespace ControlDeUsuario._01
         {
             InitializeComponent();
 
-            this.btnCrear.Click += this.CrearControl;
+          //  this.Load += new EventHandler(CrearControl);
+           this.btnCrear.Click += this.CrearControl;
            // this.btnCrear.Click += new System.EventHandler(this.CrearControl);
+           this.btnCrear.Click += new EventHandler(this.CerrarFormulario); 
         }
 
         private void CrearControl(Object sender, EventArgs e)
@@ -39,5 +41,18 @@ namespace ControlDeUsuario._01
             this.btnCrear.Click -= this.CrearControl;
 
         }
+
+        private void CerrarFormulario(object sender, EventArgs e)
+        {
+            if ((Button)sender is Button)
+            {
+                MessageBox.Show("Es un boton");
+            }
+        
+        }
+    
+    
+    
+    
     }
 }
